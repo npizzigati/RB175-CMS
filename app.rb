@@ -30,6 +30,6 @@ get '/' do
 end
 
 get '/:filename' do
-  @lines = File.readlines(user_files_path(params[:filename]))
-  erb :file_text
+  content_type 'text/plain'
+  File.read(user_files_path(params[:filename]))
 end
