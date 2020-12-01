@@ -1,0 +1,106 @@
+# Logfile created on 2020-11-27 12:17:56 -0600 by logger.rb/66358
+something else
+I, [2020-11-27T12:39:53.791736 #20941]  INFO -- : prepending root
+I, [2020-11-27T12:39:53.791857 #20941]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:39:53.794818 #20941]  INFO -- : prepending root
+I, [2020-11-27T12:39:53.794910 #20941]  INFO -- : redirecting to index
+I, [2020-11-27T12:39:53.796026 #20941]  INFO -- : prepending root
+I, [2020-11-27T12:39:53.796100 #20941]  INFO -- : redirecting to index
+I, [2020-11-27T12:39:53.797068 #20941]  INFO -- : prepending root
+I, [2020-11-27T12:39:53.798083 #20941]  INFO -- : prepending root
+I, [2020-11-27T12:39:53.798202 #20941]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:41:03.589119 #21167]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:41:03.591702 #21167]  INFO -- : redirecting to index
+I, [2020-11-27T12:41:03.592540 #21167]  INFO -- : redirecting to index
+I, [2020-11-27T12:41:03.593263 #21167]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:42:26.799228 #21256]  INFO -- : redirecting to index
+I, [2020-11-27T12:42:33.604660 #21275]  INFO -- : redirecting to index
+I, [2020-11-27T12:43:39.766961 #21366]  INFO -- : file does not exist
+I, [2020-11-27T12:43:39.767032 #21366]  INFO -- : redirecting to index
+I, [2020-11-27T12:46:24.830629 #21477]  INFO -- : file does not exist
+I, [2020-11-27T12:46:24.830726 #21477]  INFO -- : redirecting to index
+I, [2020-11-27T12:46:24.832642 #21477]  INFO -- : In index
+I, [2020-11-27T12:46:24.832765 #21477]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:46:49.963552 #21512]  INFO -- : file does not exist
+I, [2020-11-27T12:46:49.963621 #21512]  INFO -- : redirecting to index
+I, [2020-11-27T12:46:49.965483 #21512]  INFO -- : In index
+I, [2020-11-27T12:46:49.965583 #21512]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:46:49.966734 #21512]  INFO -- : file does not exist
+I, [2020-11-27T12:46:49.966797 #21512]  INFO -- : redirecting to index
+I, [2020-11-27T12:46:49.967398 #21512]  INFO -- : In index
+I, [2020-11-27T12:46:49.967467 #21512]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:46:49.968180 #21512]  INFO -- : In index
+I, [2020-11-27T12:46:49.968252 #21512]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-27T12:46:49.969690 #21512]  INFO -- : In index
+I, [2020-11-27T12:46:49.969768 #21512]  INFO -- : Filenames: ["herstory.txt"]
+I, [2020-11-30T18:38:08.468679 #11265]  INFO -- : filename valid
+I, [2020-11-30T18:38:08.481713 #11265]  INFO -- : filename valid
+I, [2020-11-30T18:41:08.343556 #11387]  INFO -- : filename valid
+I, [2020-11-30T18:41:08.348925 #11387]  INFO -- : filename valid
+I, [2020-11-30T18:42:25.302037 #11445]  INFO -- : filename valid
+I, [2020-11-30T18:42:25.340434 #11445]  INFO -- : filename valid
+I, [2020-11-30T18:42:55.347859 #11489]  INFO -- : filename valid
+I, [2020-11-30T18:42:55.375869 #11489]  INFO -- : filename valid
+I, [2020-11-30T18:43:20.940465 #11531]  INFO -- : filename valid
+I, [2020-11-30T18:43:20.965042 #11531]  INFO -- : filename valid
+I, [2020-11-30T18:43:20.979981 #11531]  INFO -- : filename valid
+I, [2020-11-30T18:46:18.839187 #11856]  INFO -- : filename valid
+I, [2020-11-30T18:46:18.875775 #11856]  INFO -- : filename valid
+I, [2020-11-30T18:46:18.885556 #11856]  INFO -- : filename valid
+I, [2020-11-30T18:47:23.527134 #11930]  INFO -- : filename valid
+I, [2020-11-30T18:47:23.531765 #11930]  INFO -- : filename valid
+I, [2020-11-30T18:47:23.546311 #11930]  INFO -- : filename valid
+I, [2020-11-30T18:47:43.195601 #11991]  INFO -- : filename valid
+I, [2020-11-30T18:47:43.212457 #11991]  INFO -- : filename valid
+I, [2020-11-30T18:47:43.241785 #11991]  INFO -- : filename valid
+I, [2020-11-30T18:48:44.015333 #12135]  INFO -- : filename valid
+I, [2020-11-30T18:48:44.034779 #12135]  INFO -- : filename valid
+I, [2020-11-30T18:48:44.045750 #12135]  INFO -- : filename valid
+I, [2020-11-30T18:48:48.463162 #12170]  INFO -- : filename valid
+I, [2020-11-30T18:48:48.472425 #12170]  INFO -- : filename valid
+I, [2020-11-30T18:48:48.499036 #12170]  INFO -- : filename valid
+I, [2020-11-30T18:58:32.929791 #12488]  INFO -- : filename valid
+I, [2020-11-30T18:58:32.955749 #12488]  INFO -- : filename valid
+I, [2020-11-30T18:58:32.981537 #12488]  INFO -- : filename valid
+I, [2020-11-30T21:46:37.881652 #13949]  INFO -- : filename valid
+I, [2020-11-30T21:46:37.907945 #13949]  INFO -- : filename valid
+I, [2020-11-30T21:46:37.941097 #13949]  INFO -- : filename valid
+I, [2020-11-30T21:48:41.628473 #14174]  INFO -- : filename valid
+I, [2020-11-30T21:48:41.663728 #14174]  INFO -- : filename valid
+I, [2020-11-30T21:48:41.696070 #14174]  INFO -- : filename valid
+I, [2020-11-30T21:49:13.937450 #14215]  INFO -- : filename valid
+I, [2020-11-30T21:49:13.947987 #14215]  INFO -- : filename valid
+I, [2020-11-30T21:49:13.966856 #14215]  INFO -- : filename valid
+I, [2020-11-30T21:49:29.524044 #14266]  INFO -- : filename valid
+I, [2020-11-30T21:49:29.553512 #14266]  INFO -- : filename valid
+I, [2020-11-30T21:49:29.558169 #14266]  INFO -- : filename valid
+I, [2020-11-30T21:49:54.029449 #14371]  INFO -- : filename valid
+I, [2020-11-30T21:49:54.037831 #14371]  INFO -- : filename valid
+I, [2020-11-30T21:49:54.060938 #14371]  INFO -- : filename valid
+I, [2020-11-30T21:52:09.068504 #14534]  INFO -- : filename valid
+I, [2020-11-30T21:52:09.109137 #14534]  INFO -- : filename valid
+I, [2020-11-30T21:52:09.126861 #14534]  INFO -- : filename valid
+I, [2020-11-30T21:52:22.874154 #14573]  INFO -- : filename valid
+I, [2020-11-30T21:52:22.903361 #14573]  INFO -- : filename valid
+I, [2020-11-30T21:52:22.928340 #14573]  INFO -- : filename valid
+I, [2020-11-30T21:53:26.303615 #14731]  INFO -- : filename valid
+I, [2020-11-30T21:53:26.328757 #14731]  INFO -- : filename valid
+I, [2020-11-30T21:53:26.364541 #14731]  INFO -- : filename valid
+I, [2020-11-30T21:54:00.566411 #14791]  INFO -- : filename valid
+I, [2020-11-30T21:54:00.572183 #14791]  INFO -- : filename valid
+I, [2020-11-30T21:54:00.601907 #14791]  INFO -- : filename valid
+I, [2020-11-30T21:57:00.283674 #15005]  INFO -- : filename valid
+I, [2020-11-30T21:57:00.288274 #15005]  INFO -- : filename valid
+I, [2020-11-30T21:57:00.305937 #15005]  INFO -- : filename valid
+I, [2020-11-30T21:57:09.938680 #15039]  INFO -- : filename valid
+I, [2020-11-30T21:57:09.957613 #15039]  INFO -- : filename valid
+I, [2020-11-30T21:57:09.963050 #15039]  INFO -- : filename valid
+I, [2020-11-30T21:57:25.747284 #15075]  INFO -- : filename valid
+I, [2020-11-30T21:57:25.759275 #15075]  INFO -- : filename valid
+I, [2020-11-30T21:57:25.794748 #15075]  INFO -- : filename valid
+I, [2020-11-30T21:58:20.934041 #15214]  INFO -- : filename valid
+I, [2020-11-30T21:58:20.940168 #15214]  INFO -- : filename valid
+I, [2020-11-30T21:58:20.961906 #15214]  INFO -- : filename valid
+I, [2020-11-30T21:58:28.911688 #15252]  INFO -- : filename valid
+I, [2020-11-30T21:58:28.931851 #15252]  INFO -- : filename valid
+I, [2020-11-30T21:58:28.959096 #15252]  INFO -- : filename valid

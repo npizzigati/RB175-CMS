@@ -1,14 +1,11 @@
-<!doctype html>
-<html>
-  <head>
-    <title>RB175 File-Based CMS</title>
-    <meta charset="utf-8" />
-  </head>
-  <body>
-    <ul>
-      <% @filenames.each do |filename| %>
-        <li><a href="/<%= filename %>"><%= filename %></a></li> 
-      <% end %>
-    </ul>
-  </body>
-</html>
+<ul>
+  <% @filenames.each do |filename| %>
+    <li>
+      <a href="/<%= filename %>"><%= filename %></a>
+      <a href="/edit/<%= filename %>" class="edit_link"> Edit</a>
+    </li>
+  <% end %>
+  <li>
+    <a href="/create/new-document">New Document</a>
+  </li>
+</ul>

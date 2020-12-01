@@ -2,34 +2,106 @@ require 'bundler/setup'
 require 'sinatra'
 require 'tilt/erubis'
 require 'sinatra/reloader'
+require 'sinatra/custom_logger'
+require 'logger'
+require 'redcarpet'
 
-set :erb, :escape_html => true
+set :erb, escape_html: true
+set :logger, Logger.new('log.txt')
 
-USER_FILES_DIRECTORY = 'user_files'.freeze
+ROOT = File.expand_path(__dir__).freeze
+variable_path = test? ? 'tests/fakes/user_files' : 'user_files'
+USER_FILES_PATH = File.join(ROOT, variable_path).freeze
 
-helpers do
+# enable sessions
+set :session_secret, 'secret'
+enable :sessions
+
+def prepend_user_files_path(file)
+  File.join(USER_FILES_PATH, file)
 end
 
-def user_files_path(file = nil)
-  root = File.expand_path(__dir__)
-  path = File.join(root, USER_FILES_DIRECTORY)
-  path = File.join(path, file) if file
-  path
+def convert_to_markdown(text)
+  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+  markdown.render(text)
 end
 
-def retrieve_filenames
-  files = []
-  Dir.open(user_files_path) do |entry|
-    files << entry if Dir.exist? entry
+def retrieve_filenames(path)
+  entries = Dir.open(path)
+  entries.reject do |entry|
+    Dir.exist? entry
   end
 end
 
 get '/' do
-  @filenames = retrieve_filenames
+  @filenames = retrieve_filenames(USER_FILES_PATH)
   erb :start
 end
 
 get '/:filename' do
-  content_type 'text/plain'
-  File.read(user_files_path(params[:filename]))
+  file = params[:filename]
+  path = prepend_user_files_path(file)
+  unless File.exist? path
+    session[:message] = "\"#{file}\" not found."
+    redirect '/'
+  end
+
+  if File.extname(file) == '.md'
+    content_type 'text/html'
+    convert_to_markdown(File.read(path))
+  else
+    content_type 'text/plain'
+    File.read(path)
+  end
+end
+
+post '/:filename' do
+  file = params[:filename]
+  path = prepend_user_files_path(file)
+  edited_content = params[:edited_content]
+  File.open(path, 'w') do |f|
+    f.write(edited_content)
+  end
+  session[:message] = "#{file} has been updated."
+  redirect '/'
+end
+
+get '/edit/:filename' do
+  file = params[:filename]
+  path = prepend_user_files_path(file)
+  @filename = file
+  @file_content = File.read(path)
+  erb :edit
+end
+
+get '/create/new-document' do
+  erb :new_document
+end
+
+post '/create/new-document' do
+  filename = params[:filename]
+  if valid?(filename) 
+    logger.info 'filename valid'
+    FileUtils.touch prepend_user_files_path(filename)
+    session[:message] = "#{filename} was created."
+    redirect '/'
+  end
+  session[:message] = if filename == ''
+                        'Please enter a filename.'
+                      elsif invalid_extension?(filename)
+                        'Filename extension must be ".md" or ".txt".'
+                      else
+                        'Filename may only contain' \
+                        ' letters, numbers, underscores' \
+                        ' and periods.'
+                      end
+  redirect '/create/new-document'
+end
+
+def valid?(filename)
+  filename =~ /^[A-Za-z0-9_\-]+\.(md|txt)$/
+end
+
+def invalid_extension?(filename)
+  !['.md', '.txt'].include?(File.extname(filename))
 end

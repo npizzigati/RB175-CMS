@@ -1,0 +1,13 @@
+# Logfile created on 2020-11-27 12:31:27 -0600 by logger.rb/66358
+I, [2020-11-27T12:39:12.965726 #20589]  INFO -- : prepending root
+I, [2020-11-27T12:39:12.966180 #20589]  INFO -- : Filenames: ["changes.txt", "history.txt", "about.txt"]
+I, [2020-11-27T12:39:13.058956 #20589]  INFO -- : prepending root
+I, [2020-11-27T12:39:13.059088 #20589]  INFO -- : redirecting to index
+I, [2020-11-27T12:48:31.394343 #20589]  INFO -- : In index
+I, [2020-11-27T12:48:31.394477 #20589]  INFO -- : Filenames: ["changes.txt", "history.txt", "about.txt"]
+I, [2020-11-27T12:48:35.860355 #20589]  INFO -- : file does not exist
+I, [2020-11-27T12:48:35.860420 #20589]  INFO -- : redirecting to index
+I, [2020-11-27T12:48:35.876540 #20589]  INFO -- : In index
+I, [2020-11-27T12:48:35.876691 #20589]  INFO -- : Filenames: ["changes.txt", "history.txt", "about.txt"]
+I, [2020-11-30T18:39:58.564234 #11314]  INFO -- : filename valid
+I, [2020-11-30T21:59:35.747278 #11314]  INFO -- : filename valid
