@@ -10,19 +10,22 @@ set :erb, escape_html: true
 set :logger, Logger.new('log.txt')
 
 ROOT = File.expand_path(__dir__).freeze
-variable_path = test? ? 'tests/fakes/user_files' : 'user_files'
-USER_FILES_PATH = File.join(ROOT, variable_path).freeze
+variable_part = test? ? 'tests/fakes/user_files'
+                      : 'user_files'
+USER_FILES_PATH = File.join(ROOT, variable_part)
+                      .freeze
 
 # enable sessions
 set :session_secret, 'secret'
 enable :sessions
 
-def prepend_user_files_path(file)
+def pathify(file)
   File.join(USER_FILES_PATH, file)
 end
 
 def convert_to_markdown(text)
-  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+  target = Redcarpet::Render::HTML
+  markdown = Redcarpet::Markdown.new(target)
   markdown.render(text)
 end
 
@@ -40,7 +43,7 @@ end
 
 get '/:filename' do
   file = params[:filename]
-  path = prepend_user_files_path(file)
+  path = pathify(file)
   unless File.exist? path
     session[:message] = "\"#{file}\" not found."
     redirect '/'
@@ -57,7 +60,7 @@ end
 
 post '/:filename' do
   file = params[:filename]
-  path = prepend_user_files_path(file)
+  path = pathify(file)
   edited_content = params[:edited_content]
   File.open(path, 'w') do |f|
     f.write(edited_content)
@@ -68,7 +71,7 @@ end
 
 get '/edit/:filename' do
   file = params[:filename]
-  path = prepend_user_files_path(file)
+  path = pathify(file)
   @filename = file
   @file_content = File.read(path)
   erb :edit
@@ -80,22 +83,54 @@ end
 
 post '/create/new-document' do
   filename = params[:filename]
-  if valid?(filename) 
+  if valid?(filename)
     logger.info 'filename valid'
-    FileUtils.touch prepend_user_files_path(filename)
+    FileUtils.touch pathify(filename)
     session[:message] = "#{filename} was created."
     redirect '/'
   end
-  session[:message] = if filename == ''
-                        'Please enter a filename.'
-                      elsif invalid_extension?(filename)
-                        'Filename extension must be ".md" or ".txt".'
-                      else
-                        'Filename may only contain' \
-                        ' letters, numbers, underscores' \
-                        ' and periods.'
-                      end
+  message = if filename == ''
+              'Please enter a filename.'
+            elsif invalid_extension?(filename)
+              'Filename extension must be ".md"' \
+              ' or ".txt".'
+            else
+              'Filename may only contain' \
+              ' letters, numbers, underscores' \
+              ' and periods.'
+            end
+  session[:message] = message
   redirect '/create/new-document'
+end
+
+get '/delete/:filename' do
+  file = params[:filename]
+  FileUtils.rm pathify(file)
+  session['message'] = "#{file} was deleted."
+  redirect '/'
+end
+
+get '/user/login' do
+  erb :sign_in
+end
+
+post '/user/login' do
+  @username = params[:username]
+  password = params[:password]
+  if [@username, password] == %w[admin secret]
+    session[:username] = @username
+    session[:message] = "Welcome back, #{@username}."
+    redirect '/'
+  else
+    session[:message] = 'Wrong username or password.'
+    erb :sign_in
+  end
+end
+
+post '/user/logout' do
+  session[:username] = nil
+  session[:message] = 'You have been signed out.'
+  redirect '/'
 end
 
 def valid?(filename)

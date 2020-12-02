@@ -23,8 +23,9 @@ module TestHelpers
   end
 
   def delete_test_user_files
-    FileUtils.rm "#{USER_FILES_PATH}/herstory.txt"
-    FileUtils.rm "#{USER_FILES_PATH}/sample_markdown.md"
+    FileUtils.rm "#{USER_FILES_PATH}/herstory.txt" if File.exist? 'herstory.txt'
+    FileUtils.rm "#{USER_FILES_PATH}/sample_markdown.md" if File.exist? 'sample_markdown.md'
+    FileUtils.rm "#{USER_FILES_PATH}/new_file.txt" if File.exist? 'newfile.txt'
   end
 end
 
@@ -175,12 +176,10 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_edit_actually_edits_file
-    FileUtils.cp('fakes/user_files/herstory.txt',
-                 'fakes/user_files/herstory_tmp.txt')
-    visit '/edit/herstory_tmp.txt'
+    visit '/edit/herstory.txt'
     find('textarea').fill_in(with: 'New Text.')
     click_button('Save')
-    visit '/herstory_tmp.txt'
+    visit '/herstory.txt'
     assert_content 'New Text'
   end
 
@@ -227,5 +226,106 @@ class IntegrationAppTest < CapybaraTestCase
     find('input').fill_in(with: 'new_file>.txt')
     find('button').click
     assert_content 'Filename may only contain'
+  end
+
+  def test_delete_link_appears_in_initial_list
+    visit '/'
+    page.has_css?('li', text: 'Delete')
+  end
+
+  def test_clicking_delete_deletes_document
+    visit '/'
+    file = 'herstory.txt'
+    find("a[href=\"/delete/#{file}\"]").click
+    refute File.exist? pathify(file)
+  end
+
+  def test_clicking_delete_displays_message
+    visit '/'
+    file = 'herstory.txt'
+    find("a[href=\"/delete/#{file}\"]").click
+    message = "#{file} was deleted"
+    assert_content message
+  end
+
+  def test_signed_out_user_sees_sign_in_page_at_start
+    visit '/'
+    page.assert_selector('button', text: 'Sign in')
+  end
+
+  def test_clicking_on_sign_in_button_takes_user_to_sign_in_form_page
+    visit '/'
+    find('button').click
+    assert_content 'User Sign-In'
+  end
+
+  def test_sign_in_form_has_username_and_password_fields
+    visit '/user/login'
+    page.assert_selector('input[name="username"]')
+    page.assert_selector('input[name="password"]')
+  end
+
+  def test_sign_in_form_has_submit_button_labeled_sign_in
+    visit '/user/login'
+    page.assert_selector('input[type="submit"]')
+  end
+
+  def test_signing_in_with_correct_credentials_redirects_to_start
+    visit '/user/login'
+    fill_in 'Username:', with: 'admin'
+    fill_in 'Password:', with: 'secret'
+    click_on 'Sign In'
+    assert_content 'Welcome back, admin.'
+  end
+
+  def test_message_produced_by_invalid_credentials
+    visit '/user/login'
+    fill_in 'Username:', with: 'joe'
+    fill_in 'Password:', with: 'pass'
+    click_on 'Sign In'
+    assert_content 'Wrong username or password.'
+  end
+
+  def test_username_entered_is_shown_on_form_on_subsequent_tries
+    visit '/user/login'
+    fill_in 'Username:', with: 'Joe'
+    fill_in 'Password:', with: 'pass'
+    click_on 'Sign In'
+    assert_selector('input[value="Joe"]')
+  end
+
+  def test_signed_in_message_appears_on_start_page
+    visit '/user/login'
+    fill_in 'Username:', with: 'admin'
+    fill_in 'Password:', with: 'secret'
+    click_on 'Sign In'
+    assert_content 'Signed in as admin'
+  end
+
+  def test_sign_out_button_appears_on_start_page
+    visit '/user/login'
+    fill_in 'Username:', with: 'admin'
+    fill_in 'Password:', with: 'secret'
+    click_button 'Sign In'
+    assert_selector('button', text: 'Sign Out')
+  end
+
+  def test_clicking_sign_out_should_sign_out_user
+    visit '/user/login'
+    fill_in 'Username:', with: 'admin'
+    fill_in 'Password:', with: 'secret'
+    click_button 'Sign In'
+    click_button 'Sign Out'
+    assert_content 'File List'
+    refute_content 'Signed in as admin'
+  end
+
+  def test_signing_out_produces_message
+    visit '/user/login'
+    fill_in 'Username:', with: 'admin'
+    fill_in 'Password:', with: 'secret'
+    click_button 'Sign In'
+    click_button 'Sign Out'
+    assert_content 'You have been signed out.'
   end
 end

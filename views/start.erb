@@ -1,11 +1,23 @@
+<h2>File List</h2>
 <ul>
   <% @filenames.each do |filename| %>
     <li>
       <a href="/<%= filename %>"><%= filename %></a>
       <a href="/edit/<%= filename %>" class="edit_link"> Edit</a>
+      <a href="/delete/<%= filename %>" class="delete_link"> Delete</a>
     </li>
   <% end %>
-  <li>
+  <div>
     <a href="/create/new-document">New Document</a>
-  </li>
+  </div>
+  <% if !session[:username] %>
+    <form action="/user/login" method="GET">
+      <button type="submit">Sign in</button>
+    </form> 
+  <% else %>
+    <p>Signed in as <%= session[:username] %></p>
+    <form action="/user/logout" method="POST">
+      <button type="submit">Sign Out</button>
+    </form> 
+  <% end %>
 </ul>
