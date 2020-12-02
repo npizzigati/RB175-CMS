@@ -61,6 +61,12 @@ class UnitAppTest < Minitest::Test
     last_request.env['rack.session']
   end
 
+  def admin_session
+    session_hash = { username: 'admin',
+                               password: 'secret' }
+    { 'rack.session' => session_hash }
+  end
+
   def test_filename_validator_catches_bad_extension
     filename = 'test.doc'
     actual = valid?(filename)
@@ -114,9 +120,6 @@ class UnitAppTest < Minitest::Test
   end
 
   def test_can_set_session_variable_directly
-    session_hash = { username: 'admin',
-                               password: 'secret' }
-    admin_session = { 'rack.session' => session_hash }
     post '/', {}, admin_session
     expected = 'admin'
     actual = session[:username]
@@ -136,6 +139,13 @@ class IntegrationAppTest < CapybaraTestCase
   def teardown
     delete_test_user_files
     super
+  end
+
+  def login_admin
+    visit '/user/login'
+    fill_in 'Username:', with: 'admin'
+    fill_in 'Password:', with: 'secret'
+    click_button 'Sign In'
   end
 
   def test_start_returns_status_200
@@ -174,29 +184,34 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_clicking_on_edit_link_takes_user_to_edit_page
+    login_admin
     visit '/'
     first('li').click_link('Edit')
     assert_content 'Editing content of'
   end
 
   def test_edit_page_shows_document_in_text_area
+    login_admin
     visit '/edit/herstory.txt'
     assert find('textarea').value =~ /Kamala/
   end
 
   def test_saving_edit_takes_user_to_home_page
+    login_admin
     visit '/edit/herstory.txt'
     click_button('Save')
     assert_current_path '/'
   end
 
   def test_after_saving_edit_user_sees_message
+    login_admin
     visit '/edit/herstory.txt'
     click_button('Save')
     assert_content 'updated'
   end
 
   def test_message_disappears_after_reloading_page
+    login_admin
     visit '/edit/herstory.txt'
     click_button('Save')
     visit '/' # reload current path
@@ -204,6 +219,7 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_edit_actually_edits_file
+    login_admin
     visit '/edit/herstory.txt'
     find('textarea').fill_in(with: 'New Text.')
     click_button('Save')
@@ -217,12 +233,14 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_clicking_on_new_document_takes_user_to_create_document_page
+    login_admin
     visit '/'
     find('a[href="/create/new-document"]').click
     assert_content 'Add a new document'
   end
 
   def test_successfully_creating_file_takes_user_back_to_filelist
+    login_admin
     visit '/create/new-document'
     find('input').fill_in(with: 'new_file.txt')
     find('button').click
@@ -230,12 +248,14 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_not_entering_file_name_when_creating_file_produces_advisory_message
+    login_admin
     visit '/create/new-document'
     find('button').click
     assert_content 'Please enter a filename.'
   end
 
   def test_clicking_create_button_creates_new_file
+    login_admin
     visit '/create/new-document'
     find('input').fill_in(with: 'new_file.txt')
     find('button').click
@@ -243,6 +263,7 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_creating_new_file_produces_success_message
+    login_admin
     visit '/create/new-document'
     find('input').fill_in(with: 'new_file.txt')
     find('button').click
@@ -250,6 +271,7 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_entering_invalid_file_produces_error_message
+    login_admin
     visit '/create/new-document'
     find('input').fill_in(with: 'new_file>.txt')
     find('button').click
@@ -262,6 +284,7 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_clicking_delete_deletes_document
+    login_admin
     visit '/'
     file = 'herstory.txt'
     find("a[href=\"/delete/#{file}\"]").click
@@ -269,6 +292,7 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_clicking_delete_displays_message
+    login_admin
     visit '/'
     file = 'herstory.txt'
     find("a[href=\"/delete/#{file}\"]").click
@@ -323,37 +347,50 @@ class IntegrationAppTest < CapybaraTestCase
   end
 
   def test_signed_in_message_appears_on_start_page
-    visit '/user/login'
-    fill_in 'Username:', with: 'admin'
-    fill_in 'Password:', with: 'secret'
-    click_on 'Sign In'
+    login_admin
     assert_content 'Signed in as admin'
   end
 
   def test_sign_out_button_appears_on_start_page
-    visit '/user/login'
-    fill_in 'Username:', with: 'admin'
-    fill_in 'Password:', with: 'secret'
-    click_button 'Sign In'
+    login_admin
     assert_selector('button', text: 'Sign Out')
   end
 
   def test_clicking_sign_out_should_sign_out_user
-    visit '/user/login'
-    fill_in 'Username:', with: 'admin'
-    fill_in 'Password:', with: 'secret'
-    click_button 'Sign In'
+    login_admin
     click_button 'Sign Out'
     assert_content 'File List'
     refute_content 'Signed in as admin'
   end
 
   def test_signing_out_produces_message
-    visit '/user/login'
-    fill_in 'Username:', with: 'admin'
-    fill_in 'Password:', with: 'secret'
-    click_button 'Sign In'
+    login_admin
     click_button 'Sign Out'
     assert_content 'You have been signed out.'
+  end
+
+  def test_signed_out_user_redirected_to_start_when_clicks_on_edit
+    visit '/'
+    click_link 'Edit', match: :first
+    assert_current_path '/'
+  end
+
+  def test_signed_out_user_unable_to_delete_file
+    visit '/'
+    click_link 'Delete', href: /herstory\.txt/
+    assert File.exist? pathify('herstory.txt')
+  end
+
+  def test_unauthorized_edit_action_produces_message
+    visit '/'
+    click_link 'Edit', match: :first
+    assert_content 'You must be signed in to do that.'
+  end
+
+  def test_signed_out_user_unable_to_create_new_file
+    visit '/'
+    click_link 'New Document'
+    assert_current_path '/'
+    assert_content 'You must be signed in to do that.'
   end
 end

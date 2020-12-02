@@ -707,3 +707,122 @@ I, [2020-12-02T12:59:27.307730 #4205]  INFO -- : filename valid
 I, [2020-12-02T14:47:34.243342 #5444]  INFO -- : filename valid
 I, [2020-12-02T14:47:34.292767 #5444]  INFO -- : filename valid
 I, [2020-12-02T14:47:34.373461 #5444]  INFO -- : filename valid
+I, [2020-12-02T14:54:00.136618 #6360]  INFO -- : filename valid
+I, [2020-12-02T14:54:00.159992 #6360]  INFO -- : filename valid
+I, [2020-12-02T14:54:00.247170 #6360]  INFO -- : filename valid
+I, [2020-12-02T15:17:50.805668 #7106]  INFO -- : filename valid
+I, [2020-12-02T15:17:50.829975 #7106]  INFO -- : filename valid
+I, [2020-12-02T15:17:50.845155 #7106]  INFO -- : filename valid
+I, [2020-12-02T15:24:58.500933 #7960]  INFO -- : filename valid
+I, [2020-12-02T15:24:58.515350 #7960]  INFO -- : filename valid
+I, [2020-12-02T15:24:58.601127 #7960]  INFO -- : filename valid
+I, [2020-12-02T15:25:23.543380 #8015]  INFO -- : filename valid
+I, [2020-12-02T15:25:23.638085 #8015]  INFO -- : filename valid
+I, [2020-12-02T15:25:23.668995 #8015]  INFO -- : filename valid
+I, [2020-12-02T15:25:29.891569 #8043]  INFO -- : filename valid
+I, [2020-12-02T15:25:29.954561 #8043]  INFO -- : filename valid
+I, [2020-12-02T15:25:29.970695 #8043]  INFO -- : filename valid
+I, [2020-12-02T15:26:43.278087 #8117]  INFO -- : filename valid
+I, [2020-12-02T15:26:43.322699 #8117]  INFO -- : filename valid
+I, [2020-12-02T15:26:43.385464 #8117]  INFO -- : filename valid
+I, [2020-12-02T15:28:14.200947 #8233]  INFO -- : filename valid
+I, [2020-12-02T15:28:14.292185 #8233]  INFO -- : filename valid
+I, [2020-12-02T15:28:14.308256 #8233]  INFO -- : filename valid
+I, [2020-12-02T15:29:19.160603 #8331]  INFO -- : filename valid
+I, [2020-12-02T15:29:19.196976 #8331]  INFO -- : filename valid
+I, [2020-12-02T15:29:19.292608 #8331]  INFO -- : filename valid
+I, [2020-12-02T15:29:56.944711 #8509]  INFO -- : filename valid
+I, [2020-12-02T15:29:56.957162 #8509]  INFO -- : filename valid
+I, [2020-12-02T15:29:56.996939 #8509]  INFO -- : filename valid
+I, [2020-12-02T15:30:02.249273 #8697]  INFO -- : filename valid
+I, [2020-12-02T15:30:02.273380 #8697]  INFO -- : filename valid
+I, [2020-12-02T15:30:02.281341 #8697]  INFO -- : filename valid
+I, [2020-12-02T15:31:28.892627 #8867]  INFO -- : filename valid
+I, [2020-12-02T15:31:28.919731 #8867]  INFO -- : filename valid
+I, [2020-12-02T15:31:28.964585 #8867]  INFO -- : filename valid
+I, [2020-12-02T15:36:49.019818 #9177]  INFO -- : filename valid
+I, [2020-12-02T15:36:49.055665 #9177]  INFO -- : filename valid
+I, [2020-12-02T15:36:49.070310 #9177]  INFO -- : filename valid
+I, [2020-12-02T15:39:57.155397 #9394]  INFO -- : filename valid
+I, [2020-12-02T15:39:57.160376 #9394]  INFO -- : filename valid
+I, [2020-12-02T15:39:57.168510 #9394]  INFO -- : filename valid
+I, [2020-12-02T15:40:28.013016 #9475]  INFO -- : filename valid
+I, [2020-12-02T15:40:28.116998 #9475]  INFO -- : filename valid
+I, [2020-12-02T15:40:28.146912 #9475]  INFO -- : filename valid
+I, [2020-12-02T15:40:55.389742 #9529]  INFO -- : filename valid
+I, [2020-12-02T15:40:55.401379 #9529]  INFO -- : filename valid
+I, [2020-12-02T15:40:55.445697 #9529]  INFO -- : filename valid
+I, [2020-12-02T15:41:16.046879 #9577]  INFO -- : filename valid
+I, [2020-12-02T15:41:16.059158 #9577]  INFO -- : filename valid
+I, [2020-12-02T15:41:16.087183 #9577]  INFO -- : filename valid
+I, [2020-12-02T15:43:24.734621 #9683]  INFO -- : filename valid
+I, [2020-12-02T15:43:24.760647 #9683]  INFO -- : filename valid
+I, [2020-12-02T15:43:24.765613 #9683]  INFO -- : filename valid
+I, [2020-12-02T15:44:22.003495 #9788]  INFO -- : filename valid
+I, [2020-12-02T15:44:22.028801 #9788]  INFO -- : filename valid
+I, [2020-12-02T15:44:22.040343 #9788]  INFO -- : filename valid
+I, [2020-12-02T15:44:32.175936 #9816]  INFO -- : filename valid
+I, [2020-12-02T15:44:32.282534 #9816]  INFO -- : filename valid
+I, [2020-12-02T15:44:32.320403 #9816]  INFO -- : filename valid
+I, [2020-12-02T15:50:17.859069 #10050]  INFO -- : filename valid
+I, [2020-12-02T15:50:17.906416 #10050]  INFO -- : filename valid
+I, [2020-12-02T15:50:18.009982 #10050]  INFO -- : filename valid
+I, [2020-12-02T15:50:34.392834 #10099]  INFO -- : filename valid
+I, [2020-12-02T15:50:34.489803 #10099]  INFO -- : filename valid
+I, [2020-12-02T15:50:34.534011 #10099]  INFO -- : filename valid
+I, [2020-12-02T15:51:32.854553 #10147]  INFO -- : filename valid
+I, [2020-12-02T15:51:32.922924 #10147]  INFO -- : filename valid
+I, [2020-12-02T15:51:32.969426 #10147]  INFO -- : filename valid
+I, [2020-12-02T15:51:36.889882 #10191]  INFO -- : filename valid
+I, [2020-12-02T15:51:36.917465 #10191]  INFO -- : filename valid
+I, [2020-12-02T15:51:36.969791 #10191]  INFO -- : filename valid
+I, [2020-12-02T15:52:06.727041 #10324]  INFO -- : filename valid
+I, [2020-12-02T15:52:06.734916 #10324]  INFO -- : filename valid
+I, [2020-12-02T15:52:06.776267 #10324]  INFO -- : filename valid
+I, [2020-12-02T15:56:13.125944 #10469]  INFO -- : filename valid
+I, [2020-12-02T15:56:13.176673 #10469]  INFO -- : filename valid
+I, [2020-12-02T15:56:13.224300 #10469]  INFO -- : filename valid
+I, [2020-12-02T15:57:07.571421 #10560]  INFO -- : filename valid
+I, [2020-12-02T15:57:07.678490 #10560]  INFO -- : filename valid
+I, [2020-12-02T15:57:07.751696 #10560]  INFO -- : filename valid
+I, [2020-12-02T15:57:26.934682 #10608]  INFO -- : filename valid
+I, [2020-12-02T15:57:26.951056 #10608]  INFO -- : filename valid
+I, [2020-12-02T15:57:27.030931 #10608]  INFO -- : filename valid
+I, [2020-12-02T16:37:14.288039 #11262]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T16:40:35.522877 #11367]  INFO -- : filename valid
+I, [2020-12-02T16:40:35.527991 #11367]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T16:40:35.542665 #11367]  INFO -- : filename valid
+I, [2020-12-02T16:40:35.548160 #11367]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T16:40:35.584157 #11367]  INFO -- : filename valid
+I, [2020-12-02T16:40:35.720134 #11367]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T16:43:00.723444 #11470]  INFO -- : filename valid
+I, [2020-12-02T16:43:00.734187 #11470]  INFO -- : filename valid
+I, [2020-12-02T16:43:00.820090 #11470]  INFO -- : filename valid
+I, [2020-12-02T16:43:06.070689 #11494]  INFO -- : filename valid
+I, [2020-12-02T16:43:06.097866 #11494]  INFO -- : filename valid
+I, [2020-12-02T16:43:06.126181 #11494]  INFO -- : filename valid
+I, [2020-12-02T16:45:06.696218 #11631]  INFO -- : filename valid
+I, [2020-12-02T16:45:06.722511 #11631]  INFO -- : filename valid
+I, [2020-12-02T16:45:06.791494 #11631]  INFO -- : filename valid
+I, [2020-12-02T16:45:06.805451 #11631]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T16:45:06.817117 #11631]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:10:46.094851 #12947]  INFO -- : filename valid
+I, [2020-12-02T17:10:46.138327 #12947]  INFO -- : filename valid
+I, [2020-12-02T17:10:46.179447 #12947]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:10:46.257911 #12947]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:10:46.284629 #12947]  INFO -- : filename valid
+I, [2020-12-02T17:13:43.304822 #13177]  INFO -- : filename valid
+I, [2020-12-02T17:13:43.428450 #13177]  INFO -- : filename valid
+I, [2020-12-02T17:13:43.442125 #13177]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:13:43.481438 #13177]  INFO -- : filename valid
+I, [2020-12-02T17:13:43.501375 #13177]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:14:15.653371 #13233]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:14:15.668058 #13233]  INFO -- : filename valid
+I, [2020-12-02T17:14:15.694861 #13233]  INFO -- : filename valid
+I, [2020-12-02T17:14:15.708080 #13233]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:14:15.836247 #13233]  INFO -- : filename valid
+I, [2020-12-02T17:14:32.484582 #13287]  INFO -- : filename valid
+I, [2020-12-02T17:14:32.536826 #13287]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:14:32.554062 #13287]  INFO -- : filename valid
+I, [2020-12-02T17:14:32.616143 #13287]  INFO -- : filename valid
+I, [2020-12-02T17:14:32.645109 #13287]  INFO -- : Going to delete herstory.txt

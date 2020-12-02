@@ -70,6 +70,7 @@ post '/:filename' do
 end
 
 get '/edit/:filename' do
+  validate_user
   file = params[:filename]
   path = pathify(file)
   @filename = file
@@ -77,7 +78,20 @@ get '/edit/:filename' do
   erb :edit
 end
 
+def user_logged_in?
+  session[:username]
+end
+
+def validate_user
+  unless user_logged_in?
+    session[:message] = 'You must be signed' \
+                        ' in to do that.'
+    redirect '/'
+  end
+end
+
 get '/create/new-document' do
+  validate_user
   erb :new_document
 end
 
@@ -104,7 +118,9 @@ post '/create/new-document' do
 end
 
 get '/delete/:filename' do
+  validate_user
   file = params[:filename]
+  logger.info "Going to delete #{file}"
   FileUtils.rm pathify(file)
   session['message'] = "#{file} was deleted."
   redirect '/'
