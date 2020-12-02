@@ -57,6 +57,10 @@ class UnitAppTest < Minitest::Test
     super
   end
 
+  def session
+    last_request.env['rack.session']
+  end
+
   def test_filename_validator_catches_bad_extension
     filename = 'test.doc'
     actual = valid?(filename)
@@ -93,6 +97,30 @@ class UnitAppTest < Minitest::Test
   def test_start_returns_200_status
     get '/'
     assert_equal 200, last_response.status
+  end
+
+  def test_signing_in_creates_session_username
+    post '/user/login', { username: 'admin',
+                                   password: 'secret' }
+    expected = 'admin'
+    actual = session[:username]
+    assert_equal expected, actual
+  end
+
+  def test_signing_out_removes_session_variables
+    post '/user/logout'
+    actual = session[:username]
+    assert_nil actual
+  end
+
+  def test_can_set_session_variable_directly
+    session_hash = { username: 'admin',
+                               password: 'secret' }
+    admin_session = { 'rack.session' => session_hash }
+    post '/', {}, admin_session
+    expected = 'admin'
+    actual = session[:username]
+    assert_equal expected, actual
   end
 end
 
