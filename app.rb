@@ -150,6 +150,10 @@ post '/user/logout' do
   redirect '/'
 end
 
+get '/users/edit' do
+  'Edit Users'
+end
+
 def valid?(filename)
   filename =~ /^[A-Za-z0-9_\-]+\.(md|txt)$/
 end

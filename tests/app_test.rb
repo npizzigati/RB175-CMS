@@ -399,4 +399,16 @@ class IntegrationAppTest < CapybaraTestCase
     visit '/'
     assert_selector 'button', text: 'Edit Users'
   end
+
+  def test_edit_users_button_does_not_appear_if_user_not_logged_on
+    visit '/'
+    refute_selector 'button', text: 'Edit Users'
+  end
+
+  def test_clicking_on_edit_users_button_takes_user_to_edit_users_page
+    login_admin
+    visit '/'
+    click_button 'Edit Users'
+    assert_content 'Edit Users'
+  end
 end
