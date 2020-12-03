@@ -393,4 +393,10 @@ class IntegrationAppTest < CapybaraTestCase
     assert_current_path '/'
     assert_content 'You must be signed in to do that.'
   end
+
+  def test_admin_user_sees_button_to_edit_users
+    login_admin
+    visit '/'
+    assert_selector 'button', text: 'Edit Users'
+  end
 end

@@ -826,3 +826,33 @@ I, [2020-12-02T17:14:32.536826 #13287]  INFO -- : Going to delete herstory.txt
 I, [2020-12-02T17:14:32.554062 #13287]  INFO -- : filename valid
 I, [2020-12-02T17:14:32.616143 #13287]  INFO -- : filename valid
 I, [2020-12-02T17:14:32.645109 #13287]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:49:15.905049 #14591]  INFO -- : filename valid
+I, [2020-12-02T17:49:15.938985 #14591]  INFO -- : filename valid
+I, [2020-12-02T17:49:16.034089 #14591]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:49:16.094244 #14591]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T17:49:16.119121 #14591]  INFO -- : filename valid
+I, [2020-12-02T21:03:25.254520 #15892]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:03:25.323608 #15892]  INFO -- : filename valid
+I, [2020-12-02T21:03:25.341922 #15892]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:03:25.366214 #15892]  INFO -- : filename valid
+I, [2020-12-02T21:03:25.423604 #15892]  INFO -- : filename valid
+I, [2020-12-02T21:12:21.106462 #16258]  INFO -- : filename valid
+I, [2020-12-02T21:12:21.174849 #16258]  INFO -- : filename valid
+I, [2020-12-02T21:12:21.229903 #16258]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:12:21.265741 #16258]  INFO -- : filename valid
+I, [2020-12-02T21:12:21.283807 #16258]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:18:48.469928 #16459]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:18:48.502900 #16459]  INFO -- : filename valid
+I, [2020-12-02T21:18:48.512100 #16459]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:18:48.555913 #16459]  INFO -- : filename valid
+I, [2020-12-02T21:18:48.605913 #16459]  INFO -- : filename valid
+I, [2020-12-02T21:19:09.720291 #16499]  INFO -- : filename valid
+I, [2020-12-02T21:19:09.732823 #16499]  INFO -- : filename valid
+I, [2020-12-02T21:19:09.760164 #16499]  INFO -- : filename valid
+I, [2020-12-02T21:19:09.860340 #16499]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:19:09.917039 #16499]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:19:37.024927 #16551]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:19:37.128218 #16551]  INFO -- : Going to delete herstory.txt
+I, [2020-12-02T21:19:37.136526 #16551]  INFO -- : filename valid
+I, [2020-12-02T21:19:37.166357 #16551]  INFO -- : filename valid
+I, [2020-12-02T21:19:37.236248 #16551]  INFO -- : filename valid

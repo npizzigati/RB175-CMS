@@ -5,6 +5,7 @@ require 'sinatra/reloader'
 require 'sinatra/custom_logger'
 require 'logger'
 require 'redcarpet'
+require 'json'
 
 set :erb, escape_html: true
 set :logger, Logger.new('log.txt')
