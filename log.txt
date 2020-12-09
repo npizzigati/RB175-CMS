@@ -305,3 +305,4 @@ I, [2020-12-05T20:10:37.378493 #11314]  INFO -- : params[:username]: frederik
 2020-12-09 11:36:39 -0600actual: [{"username"=>"admin", "password"=>"secret"}]
 2020-12-09 12:20:57 -0600actual: [{"username"=>"admin", "password"=>"secret"}]I, [2020-12-09T13:15:17.625193 #11189]  INFO -- : Going to delete changes.txt
 I, [2020-12-09T13:15:48.646061 #11189]  INFO -- : filename valid
+I, [2020-12-09T14:55:04.306908 #11189]  INFO -- : Going to delete changes.txt
