@@ -1,4 +1,5 @@
 require 'bundler/setup'
+
 require 'sinatra'
 require 'tilt/erubis'
 require 'sinatra/reloader'
@@ -26,7 +27,7 @@ enable :sessions
 
 def initial_credentials
   [
-    { 'username' => 'admin', 'password' => encrypt('secret')},
+    { 'username' => 'admin', 'password' => encrypt('secret') },
     { 'username' => 'frederik', 'password' => encrypt('fredspassword') }
   ]
 end
