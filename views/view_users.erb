@@ -1,0 +1,21 @@
+<h2>View Users</h2>
+
+<ul>
+  <% @all_credentials.each do |usr| %>
+    <li>
+      Username: <%= usr['username'] %>
+      <form action="/users/edit/<%= usr['username'] %>" method="GET" class="inline-button">
+        <button type="submit">Edit</button>
+      </form>
+      <% unless usr['username'] == 'admin' %>
+        <form action="/users/delete/<%= usr['username'] %>" method="POST" class="inline-button">
+          <button type="submit">Delete</button>
+        </form> 
+      <% end %>
+    </li>
+  <% end %>
+</ul>
+
+<form action="/users/add" method="GET">
+  <button type="submit">Add User</button>
+</form>

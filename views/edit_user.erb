@@ -1,0 +1,15 @@
+<h2>Edit User</h2>
+<form action="/users/edit" method="POST">
+  <input name="original_username" value="<%= @user['username'] %>" type="hidden"/>
+  <label>Username: 
+    <% if @user['username'] == 'admin' %>
+      <input name="new_username" value="<%= @user['username'] %>" readonly/> 
+    <% else %>
+      <input name="new_username" value="<%= @user['username'] %>"/> 
+    <% end %>
+  </label>
+  <label>Password: 
+    <input name="new_password" value="<%= @user['password'] %>"/>
+  </label>
+  <button type="submit">Submit Changes</button>
+</form>
