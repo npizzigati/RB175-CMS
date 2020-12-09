@@ -19,7 +19,9 @@
     <form action="/user/logout" method="POST">
       <button type="submit">Sign Out</button>
     </form> 
-    <form action="/users/edit" method="GET">
+  <% end %>
+  <% if session[:username] == 'admin' %>
+    <form action="/users/view" method="GET">
       <button type="submit">Edit Users</button>
     </form> 
   <% end %>

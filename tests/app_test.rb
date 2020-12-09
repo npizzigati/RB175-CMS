@@ -6,7 +6,6 @@ require 'rack/test'
 require 'logger'
 require 'capybara/minitest'
 require 'capybara/apparition'
-require 'pry'
 
 require_relative '../app'
 
@@ -23,9 +22,14 @@ module TestHelpers
   end
 
   def delete_test_user_files
-    FileUtils.rm "#{USER_FILES_PATH}/herstory.txt" if File.exist? 'herstory.txt'
-    FileUtils.rm "#{USER_FILES_PATH}/sample_markdown.md" if File.exist? 'sample_markdown.md'
-    FileUtils.rm "#{USER_FILES_PATH}/new_file.txt" if File.exist? 'newfile.txt'
+    paths_to_delete = ["#{USER_FILES_PATH}/herstory.txt",
+                       "#{USER_FILES_PATH}/sample_markdown.md",
+                       "#{USER_FILES_PATH}/new_file.txt",
+                       "#{DATA_PATH}/credentials.json"]
+
+    paths_to_delete.each do |path|
+      FileUtils.rm path if File.exist? path
+    end
   end
 end
 
@@ -65,6 +69,13 @@ class UnitAppTest < Minitest::Test
     session_hash = { username: 'admin',
                                password: 'secret' }
     { 'rack.session' => session_hash }
+  end
+
+  def setup_credentials_file(credentials_store)
+    path = File.join(DATA_PATH, 'credentials.json')
+    File.open(path, 'w') do |f|
+      f.write(credentials_store.to_json)
+    end
   end
 
   def test_filename_validator_catches_bad_extension
@@ -125,6 +136,114 @@ class UnitAppTest < Minitest::Test
     actual = session[:username]
     assert_equal expected, actual
   end
+
+  def test_user_logged_in_admin
+    post '/', {}, admin_session
+    expected = true
+    actual = user_logged_in?(:admin)
+    assert_equal expected, actual
+  end
+
+  def test_check_whether_credentials_file_exists_true
+    path = File.join(DATA_PATH, 'credentials.json')
+    FileUtils.touch path
+    expected = true
+    actual = credentials_file_exists?
+    assert_equal expected, actual
+  end
+
+  def test_create_credentials_file
+    create_credentials_file
+    assert File.exist? File.join(DATA_PATH, 'credentials.json')
+  end
+
+  def test_parse_credentials
+    credentials_store = [{ 'username' => 'admin',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    expected = credentials_store
+    actual = parse_credentials
+    assert_equal expected, actual
+  end
+
+  def test_retrieve_credentials_finds_user
+    credentials_store = [{ 'username' => 'admin',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    expected = credentials_store.first
+    actual = retrieve_credentials('admin', 'secret')
+    assert_equal expected, actual
+  end
+
+  def test_retrieve_credentials_wrong_password
+    credentials_store = [{ 'username' => 'admin',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    actual = retrieve_credentials('admin', 'wildguess')
+    assert_nil actual
+  end
+
+  def test_retrieve_credentials_nonexistent_username
+    credentials_store = [{ 'username' => 'admin',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    actual = retrieve_credentials('joe', 'joespassword')
+    assert_nil actual
+  end
+
+  def test_user_edit_retrieves_user
+    user = retrieve_user('admin')
+    assert user['username'] = 'admin'
+  end
+
+  def test_update_credentials_file_change
+    credentials_store = [{ 'username' => 'joe',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    params = {
+      original_username: 'joe',
+      new_username: 'joseph',
+      new_password: 'secret'
+    }
+    update_credentials_file(params, :edit)
+    user = retrieve_user('joseph')
+    assert user['username'] = 'joseph'
+  end
+
+  def test_update_credentials_file_new
+    credentials_store = [{ 'username' => 'admin',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    params = {
+      new_username: 'roger',
+      new_password: 'rogerspassword'
+    }
+    update_credentials_file(params, :add)
+    expected = 2
+    actual = retrieve_all_credentials.size
+    assert_equal expected, actual
+  end
+
+  def test_password_encryption_functions
+    password = 'secret'
+    hash = encrypt(password)
+    expected = true
+    actual = check(hash, password)
+    assert_equal expected, actual
+  end
+
+  def test_update_credentials_file_delete
+    credentials_store = [{ 'username' => 'admin',
+                           'password' => encrypt('secret') },
+                         { 'username' => 'roger',
+                           'password' => encrypt('secret') }]
+    setup_credentials_file(credentials_store)
+    params = { username: 'roger' }
+    update_credentials_file(params, :delete)
+    expected = 1
+    actual = retrieve_all_credentials.size
+    assert_equal expected, actual
+  end
 end
 
 class IntegrationAppTest < CapybaraTestCase
@@ -145,6 +264,14 @@ class IntegrationAppTest < CapybaraTestCase
     visit '/user/login'
     fill_in 'Username:', with: 'admin'
     fill_in 'Password:', with: 'secret'
+    click_button 'Sign In'
+  end
+
+
+  def login_regular_user
+    visit '/user/login'
+    fill_in 'Username:', with: 'frederik'
+    fill_in 'Password:', with: 'fredspassword'
     click_button 'Sign In'
   end
 
@@ -384,14 +511,14 @@ class IntegrationAppTest < CapybaraTestCase
   def test_unauthorized_edit_action_produces_message
     visit '/'
     click_link 'Edit', match: :first
-    assert_content 'You must be signed in to do that.'
+    assert_content 'Sorry, you are not authorized to do that.'
   end
 
   def test_signed_out_user_unable_to_create_new_file
     visit '/'
     click_link 'New Document'
     assert_current_path '/'
-    assert_content 'You must be signed in to do that.'
+    assert_content 'Sorry, you are not authorized to do that.'
   end
 
   def test_admin_user_sees_button_to_edit_users
@@ -400,7 +527,13 @@ class IntegrationAppTest < CapybaraTestCase
     assert_selector 'button', text: 'Edit Users'
   end
 
-  def test_edit_users_button_does_not_appear_if_user_not_logged_on
+  def test_edit_users_button_does_not_appear_if_user_not_logged_in
+    visit '/'
+    refute_selector 'button', text: 'Edit Users'
+  end
+
+  def test_edit_users_button_does_not_appear_if_user_is_not_admin
+    login_regular_user
     visit '/'
     refute_selector 'button', text: 'Edit Users'
   end
@@ -409,6 +542,124 @@ class IntegrationAppTest < CapybaraTestCase
     login_admin
     visit '/'
     click_button 'Edit Users'
-    assert_content 'Edit Users'
+    assert_content 'Users'
+  end
+
+  def test_view_users_shows_users
+    login_admin
+    click_button 'Edit Users'
+    assert_content 'Username: admin'
+  end
+
+  def test_view_users_shows_edit_button
+    login_admin
+    click_button 'Edit Users'
+    assert_selector 'button', text: 'Edit'
+  end
+
+  def test_clicking_on_edit_button_for_user_takes_you_to_user_edit_page
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Edit', match: :first
+    assert_content 'Edit User'
+  end
+
+  def test_edit_user_page_displays_password_field
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Edit', match: :first
+    assert_selector 'input[name="new_password"]'
+  end
+
+  # def test_edit_user_page_displays_username_field_for_users_except_admin
+  #   login_admin
+  #   click_button 'Edit Users'
+  #   click_button 'Edit', match: :first
+  #   assert_selector 'input[name="new_password"]'
+  # end
+
+  def test_view_users_page_displays_an_add_user_button
+    login_admin
+    click_button 'Edit Users'
+    assert_selector 'button', text: 'Add User'
+  end
+
+  def test_clicking_on_add_user_button_should_take_admin_to_add_user_page
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Add User'
+    assert_content 'Add User'
+  end
+
+  def test_add_user_page_should_have_field_to_enter_username_and_password
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Add User'
+    assert_selector 'input[name="new_username"]'
+    assert_selector 'input[name="new_password"]'
+  end
+
+  def test_added_user_appears_in_users_view
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Add User'
+    fill_in 'new_username', with: 'john'
+    fill_in 'new_password', with: 'johnspassword'
+    click_button 'Add User'
+    assert_content 'Username: john'
+  end
+
+  def test_delete_button_appears_in_users_view
+    login_admin
+    click_button 'Edit Users'
+    assert_selector 'button', text: 'Delete'
+  end
+
+  def test_delete_button_deletes_user
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Add User'
+    fill_in 'new_username', with: 'john'
+    fill_in 'new_password', with: 'johnspassword'
+    click_button 'Add User'
+    assert_content 'Username: john'
+    page.find('form[action="/users/delete/john"]').click_button 'Delete'
+    refute_content 'Username: john'
+  end
+
+  def test_only_admin_can_see_users_page
+    login_regular_user
+    visit '/users/view'
+    assert_current_path '/'
+  end
+
+  def test_there_is_no_delete_button_next_to_admin_user_in_users_view
+    login_admin
+    click_button 'Edit Users'
+    refute_selector 'form[action="/users/delete/admin"]'
+  end
+
+  def test_password_is_not_stored_in_plaintext
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Add User'
+    fill_in 'new_username', with: 'john'
+    fill_in 'new_password', with: 'johnspassword'
+    click_button 'Add User'
+    user = retrieve_user('john')
+    assert user['password'] != 'johnspassword'
+  end
+
+  def test_password_is_stored_in_bcrypt_hash
+    login_admin
+    click_button 'Edit Users'
+    click_button 'Add User'
+    fill_in 'new_username', with: 'john'
+    fill_in 'new_password', with: 'johnspassword'
+    click_button 'Add User'
+    user = retrieve_user('john')
+    expected = true
+    actual = BCrypt::Password.new(user['password']) == 'johnspassword'
+    assert expected == actual
   end
 end

@@ -29,3 +29,7 @@ h2 {
     padding: 2% 1.5%;
     font-weight: bold;
 }
+
+.inline-button {
+    display: inline
+}

@@ -921,3 +921,1463 @@ I, [2020-12-02T21:47:45.727222 #18488]  INFO -- : filename valid
 I, [2020-12-02T21:47:45.804212 #18488]  INFO -- : Going to delete herstory.txt
 I, [2020-12-02T21:47:45.851660 #18488]  INFO -- : filename valid
 I, [2020-12-02T21:47:45.960095 #18488]  INFO -- : filename valid
+I, [2020-12-03T17:22:59.811475 #18314]  INFO -- : filename valid
+I, [2020-12-03T17:22:59.846541 #18314]  INFO -- : filename valid
+I, [2020-12-03T17:22:59.878819 #18314]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:22:59.983333 #18314]  INFO -- : filename valid
+I, [2020-12-03T17:23:00.053672 #18314]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:28:59.280954 #18619]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:28:59.331296 #18619]  INFO -- : filename valid
+I, [2020-12-03T17:28:59.357854 #18619]  INFO -- : filename valid
+I, [2020-12-03T17:28:59.377767 #18619]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:28:59.401677 #18619]  INFO -- : filename valid
+I, [2020-12-03T17:34:03.929424 #18835]  INFO -- : filename valid
+I, [2020-12-03T17:34:04.044075 #18835]  INFO -- : filename valid
+I, [2020-12-03T17:34:04.062302 #18835]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:34:04.070129 #18835]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:34:04.121308 #18835]  INFO -- : filename valid
+I, [2020-12-03T17:34:11.031699 #18869]  INFO -- : filename valid
+I, [2020-12-03T17:34:11.041418 #18869]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:34:11.079405 #18869]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:34:11.145309 #18869]  INFO -- : filename valid
+I, [2020-12-03T17:34:11.164646 #18869]  INFO -- : filename valid
+I, [2020-12-03T17:35:24.797341 #19014]  INFO -- : filename valid
+I, [2020-12-03T17:35:24.816649 #19014]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:35:24.862641 #19014]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:35:24.887819 #19014]  INFO -- : filename valid
+I, [2020-12-03T17:35:24.973216 #19014]  INFO -- : filename valid
+I, [2020-12-03T17:35:57.287917 #19059]  INFO -- : filename valid
+I, [2020-12-03T17:35:57.351856 #19059]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:35:57.444345 #19059]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:35:57.464751 #19059]  INFO -- : filename valid
+I, [2020-12-03T17:35:57.474947 #19059]  INFO -- : filename valid
+I, [2020-12-03T17:59:00.623489 #20273]  INFO -- : filename valid
+I, [2020-12-03T17:59:00.639891 #20273]  INFO -- : filename valid
+I, [2020-12-03T17:59:00.674422 #20273]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:00.685582 #20273]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:00.756265 #20273]  INFO -- : filename valid
+I, [2020-12-03T17:59:21.370599 #20336]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:21.408200 #20336]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:21.477083 #20336]  INFO -- : filename valid
+I, [2020-12-03T17:59:21.551470 #20336]  INFO -- : filename valid
+I, [2020-12-03T17:59:21.591105 #20336]  INFO -- : filename valid
+I, [2020-12-03T17:59:35.949612 #20403]  INFO -- : filename valid
+I, [2020-12-03T17:59:36.048149 #20403]  INFO -- : filename valid
+I, [2020-12-03T17:59:36.057780 #20403]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:36.095869 #20403]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:36.118067 #20403]  INFO -- : filename valid
+I, [2020-12-03T17:59:52.683338 #20452]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:52.696226 #20452]  INFO -- : filename valid
+I, [2020-12-03T17:59:52.705421 #20452]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T17:59:52.715273 #20452]  INFO -- : filename valid
+I, [2020-12-03T17:59:52.786283 #20452]  INFO -- : filename valid
+I, [2020-12-03T18:00:18.071723 #20513]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:00:18.094720 #20513]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:00:18.105841 #20513]  INFO -- : filename valid
+I, [2020-12-03T18:00:18.138857 #20513]  INFO -- : filename valid
+I, [2020-12-03T18:00:18.160813 #20513]  INFO -- : filename valid
+I, [2020-12-03T18:07:10.624556 #21094]  INFO -- : filename valid
+I, [2020-12-03T18:07:10.681146 #21094]  INFO -- : filename valid
+I, [2020-12-03T18:07:10.706525 #21094]  INFO -- : filename valid
+I, [2020-12-03T18:07:10.821741 #21094]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:07:10.895104 #21094]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:07:16.229145 #21141]  INFO -- : filename valid
+I, [2020-12-03T18:07:16.280933 #21141]  INFO -- : filename valid
+I, [2020-12-03T18:07:16.299411 #21141]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:07:16.424070 #21141]  INFO -- : filename valid
+I, [2020-12-03T18:07:16.467731 #21141]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:26:15.409112 #21893]  INFO -- : filename valid
+I, [2020-12-03T18:26:15.418101 #21893]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:26:15.447214 #21893]  INFO -- : filename valid
+I, [2020-12-03T18:26:15.511694 #21893]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:26:15.549000 #21893]  INFO -- : filename valid
+I, [2020-12-03T18:26:21.237012 #21929]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:26:21.254919 #21929]  INFO -- : filename valid
+I, [2020-12-03T18:26:21.364257 #21929]  INFO -- : filename valid
+I, [2020-12-03T18:26:21.385710 #21929]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:26:21.413417 #21929]  INFO -- : filename valid
+I, [2020-12-03T18:34:03.184845 #22557]  INFO -- : filename valid
+I, [2020-12-03T18:34:03.194842 #22557]  INFO -- : filename valid
+I, [2020-12-03T18:34:03.229499 #22557]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:34:03.405275 #22557]  INFO -- : filename valid
+I, [2020-12-03T18:34:03.417333 #22557]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:34:16.129932 #22584]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:34:16.154074 #22584]  INFO -- : filename valid
+I, [2020-12-03T18:34:16.196595 #22584]  INFO -- : filename valid
+I, [2020-12-03T18:34:16.220840 #22584]  INFO -- : filename valid
+I, [2020-12-03T18:34:16.363260 #22584]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:34:47.994961 #22641]  INFO -- : filename valid
+I, [2020-12-03T18:34:48.052783 #22641]  INFO -- : filename valid
+I, [2020-12-03T18:34:48.089195 #22641]  INFO -- : filename valid
+I, [2020-12-03T18:34:48.098289 #22641]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:34:48.119369 #22641]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:36:09.557460 #22735]  INFO -- : filename valid
+I, [2020-12-03T18:36:09.567176 #22735]  INFO -- : filename valid
+I, [2020-12-03T18:36:09.638355 #22735]  INFO -- : filename valid
+I, [2020-12-03T18:36:09.653280 #22735]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:36:09.726047 #22735]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:41:24.961556 #23004]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:41:24.995920 #23004]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:41:25.020110 #23004]  INFO -- : filename valid
+I, [2020-12-03T18:41:25.064627 #23004]  INFO -- : filename valid
+I, [2020-12-03T18:41:25.186562 #23004]  INFO -- : filename valid
+I, [2020-12-03T18:43:34.675233 #23095]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:43:34.729594 #23095]  INFO -- : filename valid
+I, [2020-12-03T18:43:34.835262 #23095]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:43:34.869437 #23095]  INFO -- : filename valid
+I, [2020-12-03T18:43:34.906837 #23095]  INFO -- : filename valid
+I, [2020-12-03T18:43:45.264434 #23118]  INFO -- : filename valid
+I, [2020-12-03T18:43:45.333139 #23118]  INFO -- : filename valid
+I, [2020-12-03T18:43:45.411700 #23118]  INFO -- : filename valid
+I, [2020-12-03T18:43:45.460471 #23118]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:43:45.507683 #23118]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:44:15.862899 #23160]  INFO -- : filename valid
+I, [2020-12-03T18:44:15.897636 #23160]  INFO -- : filename valid
+I, [2020-12-03T18:44:15.994419 #23160]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:44:16.023494 #23160]  INFO -- : filename valid
+I, [2020-12-03T18:44:16.049990 #23160]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:44:39.795665 #23206]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:44:39.805942 #23206]  INFO -- : filename valid
+I, [2020-12-03T18:44:39.860055 #23206]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:44:39.905751 #23206]  INFO -- : filename valid
+I, [2020-12-03T18:44:39.978673 #23206]  INFO -- : filename valid
+I, [2020-12-03T18:49:59.258583 #23503]  INFO -- : filename valid
+I, [2020-12-03T18:49:59.295142 #23503]  INFO -- : filename valid
+I, [2020-12-03T18:49:59.310061 #23503]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:49:59.391831 #23503]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:49:59.457811 #23503]  INFO -- : filename valid
+I, [2020-12-03T18:50:18.677935 #23561]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:50:18.703034 #23561]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:50:18.718263 #23561]  INFO -- : filename valid
+I, [2020-12-03T18:50:18.775531 #23561]  INFO -- : filename valid
+I, [2020-12-03T18:50:18.897559 #23561]  INFO -- : filename valid
+I, [2020-12-03T18:59:52.799789 #24269]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T18:59:52.907424 #24269]  INFO -- : filename valid
+I, [2020-12-03T18:59:52.941657 #24269]  INFO -- : filename valid
+I, [2020-12-03T18:59:52.965865 #24269]  INFO -- : filename valid
+I, [2020-12-03T18:59:52.992020 #24269]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:04:15.665770 #24734]  INFO -- : filename valid
+I, [2020-12-03T19:04:15.712378 #24734]  INFO -- : filename valid
+I, [2020-12-03T19:04:15.725725 #24734]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:04:15.812603 #24734]  INFO -- : filename valid
+I, [2020-12-03T19:04:15.923397 #24734]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:04:24.576087 #24769]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:04:24.612740 #24769]  INFO -- : filename valid
+I, [2020-12-03T19:04:24.641316 #24769]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:04:24.681524 #24769]  INFO -- : filename valid
+I, [2020-12-03T19:04:24.691474 #24769]  INFO -- : filename valid
+I, [2020-12-03T19:05:14.053124 #24802]  INFO -- : filename valid
+I, [2020-12-03T19:05:14.185061 #24802]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:05:14.194603 #24802]  INFO -- : filename valid
+I, [2020-12-03T19:05:14.204007 #24802]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T19:05:14.228531 #24802]  INFO -- : filename valid
+I, [2020-12-03T20:16:31.182864 #25069]  INFO -- : filename valid
+I, [2020-12-03T20:16:31.200922 #25069]  INFO -- : filename valid
+I, [2020-12-03T20:16:31.260236 #25069]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:16:31.285299 #25069]  INFO -- : filename valid
+I, [2020-12-03T20:16:31.390683 #25069]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:21:36.588164 #25253]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:21:36.640265 #25253]  INFO -- : filename valid
+I, [2020-12-03T20:21:36.695538 #25253]  INFO -- : filename valid
+I, [2020-12-03T20:21:36.710233 #25253]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:21:36.745731 #25253]  INFO -- : filename valid
+I, [2020-12-03T20:24:13.711513 #25399]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:24:13.836163 #25399]  INFO -- : filename valid
+I, [2020-12-03T20:24:13.879062 #25399]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:24:13.910123 #25399]  INFO -- : filename valid
+I, [2020-12-03T20:24:13.931451 #25399]  INFO -- : filename valid
+I, [2020-12-03T20:42:13.086609 #25981]  INFO -- : filename valid
+I, [2020-12-03T20:42:13.096696 #25981]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:42:13.173098 #25981]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:42:13.207106 #25981]  INFO -- : filename valid
+I, [2020-12-03T20:42:13.220276 #25981]  INFO -- : filename valid
+I, [2020-12-03T20:42:29.297182 #26020]  INFO -- : filename valid
+I, [2020-12-03T20:42:29.437591 #26020]  INFO -- : filename valid
+I, [2020-12-03T20:42:29.460773 #26020]  INFO -- : filename valid
+I, [2020-12-03T20:42:29.500100 #26020]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:42:29.540452 #26020]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:59:16.968083 #26860]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T20:59:17.004101 #26860]  INFO -- : filename valid
+I, [2020-12-03T20:59:17.054852 #26860]  INFO -- : filename valid
+I, [2020-12-03T20:59:17.087544 #26860]  INFO -- : filename valid
+I, [2020-12-03T20:59:17.099668 #26860]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:06:20.175537 #27381]  INFO -- : filename valid
+I, [2020-12-03T21:06:20.198837 #27381]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:06:20.235678 #27381]  INFO -- : filename valid
+I, [2020-12-03T21:06:20.265686 #27381]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:06:20.313279 #27381]  INFO -- : filename valid
+I, [2020-12-03T21:10:52.009817 #27716]  INFO -- : filename valid
+I, [2020-12-03T21:10:52.024406 #27716]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:10:52.069607 #27716]  INFO -- : filename valid
+I, [2020-12-03T21:10:52.154297 #27716]  INFO -- : filename valid
+I, [2020-12-03T21:10:52.251866 #27716]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:11:02.869843 #27768]  INFO -- : filename valid
+I, [2020-12-03T21:11:02.887656 #27768]  INFO -- : filename valid
+I, [2020-12-03T21:11:02.920246 #27768]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:11:02.929943 #27768]  INFO -- : filename valid
+I, [2020-12-03T21:11:02.971399 #27768]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:11:15.445252 #27804]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:11:15.466466 #27804]  INFO -- : filename valid
+I, [2020-12-03T21:11:15.521535 #27804]  INFO -- : filename valid
+I, [2020-12-03T21:11:15.551321 #27804]  INFO -- : filename valid
+I, [2020-12-03T21:11:15.576839 #27804]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:12:46.951918 #27931]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:12:46.960345 #27931]  INFO -- : filename valid
+I, [2020-12-03T21:12:47.089883 #27931]  INFO -- : filename valid
+I, [2020-12-03T21:12:47.099001 #27931]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:12:47.111567 #27931]  INFO -- : filename valid
+I, [2020-12-03T21:15:04.460321 #28146]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:04.550980 #28146]  INFO -- : filename valid
+I, [2020-12-03T21:15:04.586712 #28146]  INFO -- : filename valid
+I, [2020-12-03T21:15:04.622955 #28146]  INFO -- : filename valid
+I, [2020-12-03T21:15:04.668974 #28146]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:14.598085 #28168]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:14.606104 #28168]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:14.615493 #28168]  INFO -- : filename valid
+I, [2020-12-03T21:15:14.641833 #28168]  INFO -- : filename valid
+I, [2020-12-03T21:15:14.692061 #28168]  INFO -- : filename valid
+I, [2020-12-03T21:15:33.301467 #28210]  INFO -- : filename valid
+I, [2020-12-03T21:15:33.323401 #28210]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:33.346490 #28210]  INFO -- : filename valid
+I, [2020-12-03T21:15:33.414409 #28210]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:33.454794 #28210]  INFO -- : filename valid
+I, [2020-12-03T21:15:53.118305 #28233]  INFO -- : filename valid
+I, [2020-12-03T21:15:53.201287 #28233]  INFO -- : filename valid
+I, [2020-12-03T21:15:53.239728 #28233]  INFO -- : filename valid
+I, [2020-12-03T21:15:53.274249 #28233]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:15:53.335816 #28233]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:16:16.000540 #28261]  INFO -- : filename valid
+I, [2020-12-03T21:16:16.015292 #28261]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:16:16.036114 #28261]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:16:16.080616 #28261]  INFO -- : filename valid
+I, [2020-12-03T21:16:16.101610 #28261]  INFO -- : filename valid
+I, [2020-12-03T21:16:48.974346 #28310]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:16:48.983236 #28310]  INFO -- : filename valid
+I, [2020-12-03T21:16:49.005190 #28310]  INFO -- : filename valid
+I, [2020-12-03T21:16:49.178878 #28310]  INFO -- : filename valid
+I, [2020-12-03T21:16:49.214621 #28310]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:17:12.000293 #28353]  INFO -- : filename valid
+I, [2020-12-03T21:17:12.030594 #28353]  INFO -- : filename valid
+I, [2020-12-03T21:17:12.055099 #28353]  INFO -- : filename valid
+I, [2020-12-03T21:17:12.152901 #28353]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:17:12.175727 #28353]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:17:43.934812 #28427]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:17:43.978647 #28427]  INFO -- : filename valid
+I, [2020-12-03T21:17:43.988668 #28427]  INFO -- : filename valid
+I, [2020-12-03T21:17:44.001694 #28427]  INFO -- : filename valid
+I, [2020-12-03T21:17:44.084893 #28427]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:20.756017 #28646]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:20.821260 #28646]  INFO -- : filename valid
+I, [2020-12-03T21:19:20.889511 #28646]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:20.959541 #28646]  INFO -- : filename valid
+I, [2020-12-03T21:19:20.970510 #28646]  INFO -- : filename valid
+I, [2020-12-03T21:19:25.948853 #28705]  INFO -- : filename valid
+I, [2020-12-03T21:19:26.049911 #28705]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:26.101243 #28705]  INFO -- : filename valid
+I, [2020-12-03T21:19:26.111182 #28705]  INFO -- : filename valid
+I, [2020-12-03T21:19:26.126408 #28705]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:45.060069 #28743]  INFO -- : filename valid
+I, [2020-12-03T21:19:45.209096 #28743]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:45.229272 #28743]  INFO -- : filename valid
+I, [2020-12-03T21:19:45.246820 #28743]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:19:45.256407 #28743]  INFO -- : filename valid
+I, [2020-12-03T21:20:47.097136 #28879]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:20:47.130207 #28879]  INFO -- : filename valid
+I, [2020-12-03T21:20:47.150455 #28879]  INFO -- : filename valid
+I, [2020-12-03T21:20:47.238409 #28879]  INFO -- : filename valid
+I, [2020-12-03T21:20:47.267133 #28879]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:21:39.203572 #28966]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:21:39.238813 #28966]  INFO -- : filename valid
+I, [2020-12-03T21:21:39.301004 #28966]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:21:39.341424 #28966]  INFO -- : filename valid
+I, [2020-12-03T21:21:39.443367 #28966]  INFO -- : filename valid
+I, [2020-12-03T21:23:22.900161 #29049]  INFO -- : filename valid
+I, [2020-12-03T21:23:22.979528 #29049]  INFO -- : filename valid
+I, [2020-12-03T21:23:23.005639 #29049]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:23:23.132180 #29049]  INFO -- : filename valid
+I, [2020-12-03T21:23:23.160325 #29049]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:25:15.203337 #29118]  INFO -- : filename valid
+I, [2020-12-03T21:25:15.235013 #29118]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:25:15.248257 #29118]  INFO -- : filename valid
+I, [2020-12-03T21:25:15.320128 #29118]  INFO -- : Going to delete herstory.txt
+I, [2020-12-03T21:25:15.442375 #29118]  INFO -- : filename valid
+I, [2020-12-04T08:32:18.102234 #32081]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:32:18.219141 #32081]  INFO -- : filename valid
+I, [2020-12-04T08:32:18.236433 #32081]  INFO -- : filename valid
+I, [2020-12-04T08:32:18.357871 #32081]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:32:18.368702 #32081]  INFO -- : filename valid
+I, [2020-12-04T08:40:10.960724 #2935]  INFO -- : filename valid
+I, [2020-12-04T08:40:10.977040 #2935]  INFO -- : filename valid
+I, [2020-12-04T08:40:10.987117 #2935]  INFO -- : filename valid
+I, [2020-12-04T08:40:10.997322 #2935]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:40:11.176888 #2935]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:47:05.427354 #3501]  INFO -- : filename valid
+I, [2020-12-04T08:47:05.437699 #3501]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:47:05.493950 #3501]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:47:05.528460 #3501]  INFO -- : filename valid
+I, [2020-12-04T08:47:05.686646 #3501]  INFO -- : filename valid
+I, [2020-12-04T08:49:03.944679 #3570]  INFO -- : filename valid
+I, [2020-12-04T08:49:03.995423 #3570]  INFO -- : filename valid
+I, [2020-12-04T08:49:04.056353 #3570]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:49:04.101395 #3570]  INFO -- : filename valid
+I, [2020-12-04T08:49:04.182975 #3570]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:50:04.701310 #3639]  INFO -- : filename valid
+I, [2020-12-04T08:50:04.719248 #3639]  INFO -- : filename valid
+I, [2020-12-04T08:50:04.778727 #3639]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:50:04.928579 #3639]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:50:04.940310 #3639]  INFO -- : filename valid
+I, [2020-12-04T08:50:20.479065 #3698]  INFO -- : filename valid
+I, [2020-12-04T08:50:20.630580 #3698]  INFO -- : filename valid
+I, [2020-12-04T08:50:20.672029 #3698]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:50:20.680699 #3698]  INFO -- : filename valid
+I, [2020-12-04T08:50:20.723424 #3698]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:07.561607 #3806]  INFO -- : filename valid
+I, [2020-12-04T08:53:07.619834 #3806]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:07.716125 #3806]  INFO -- : filename valid
+I, [2020-12-04T08:53:07.726207 #3806]  INFO -- : filename valid
+I, [2020-12-04T08:53:07.753712 #3806]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:20.139397 #3831]  INFO -- : filename valid
+I, [2020-12-04T08:53:20.197851 #3831]  INFO -- : filename valid
+I, [2020-12-04T08:53:20.218300 #3831]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:20.310950 #3831]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:20.414811 #3831]  INFO -- : filename valid
+I, [2020-12-04T08:53:33.901478 #3855]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:33.926798 #3855]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T08:53:33.996854 #3855]  INFO -- : filename valid
+I, [2020-12-04T08:53:34.011880 #3855]  INFO -- : filename valid
+I, [2020-12-04T08:53:34.089868 #3855]  INFO -- : filename valid
+I, [2020-12-04T09:36:52.538817 #5591]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:36:52.608752 #5591]  INFO -- : filename valid
+I, [2020-12-04T09:36:52.646659 #5591]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:36:52.688313 #5591]  INFO -- : filename valid
+I, [2020-12-04T09:36:52.740242 #5591]  INFO -- : filename valid
+I, [2020-12-04T09:36:57.502164 #5611]  INFO -- : filename valid
+I, [2020-12-04T09:36:57.575738 #5611]  INFO -- : filename valid
+I, [2020-12-04T09:36:57.601117 #5611]  INFO -- : filename valid
+I, [2020-12-04T09:36:57.615429 #5611]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:36:57.753692 #5611]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:37:54.824945 #5646]  INFO -- : filename valid
+I, [2020-12-04T09:37:54.858703 #5646]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:37:54.958135 #5646]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:37:54.984083 #5646]  INFO -- : filename valid
+I, [2020-12-04T09:37:55.024520 #5646]  INFO -- : filename valid
+I, [2020-12-04T09:43:57.865220 #6126]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:43:57.914553 #6126]  INFO -- : filename valid
+I, [2020-12-04T09:43:58.004566 #6126]  INFO -- : filename valid
+I, [2020-12-04T09:43:58.091613 #6126]  INFO -- : filename valid
+I, [2020-12-04T09:43:58.134608 #6126]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:50:03.010471 #6448]  INFO -- : filename valid
+I, [2020-12-04T09:50:03.052460 #6448]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:50:03.098681 #6448]  INFO -- : filename valid
+I, [2020-12-04T09:50:03.279613 #6448]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T09:50:03.308220 #6448]  INFO -- : filename valid
+I, [2020-12-04T10:06:36.742169 #7101]  INFO -- : filename valid
+I, [2020-12-04T10:06:36.904279 #7101]  INFO -- : filename valid
+I, [2020-12-04T10:06:36.937077 #7101]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:06:36.992575 #7101]  INFO -- : filename valid
+I, [2020-12-04T10:06:37.003173 #7101]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:06:41.279231 #7122]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:06:41.366741 #7122]  INFO -- : filename valid
+I, [2020-12-04T10:06:41.462005 #7122]  INFO -- : filename valid
+I, [2020-12-04T10:06:41.513985 #7122]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:06:41.553537 #7122]  INFO -- : filename valid
+I, [2020-12-04T10:06:44.566255 #7157]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:06:44.598499 #7157]  INFO -- : filename valid
+I, [2020-12-04T10:06:44.650275 #7157]  INFO -- : filename valid
+I, [2020-12-04T10:06:44.704031 #7157]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:06:44.757049 #7157]  INFO -- : filename valid
+I, [2020-12-04T10:08:00.124221 #7333]  INFO -- : filename valid
+I, [2020-12-04T10:08:00.143531 #7333]  INFO -- : filename valid
+I, [2020-12-04T10:08:00.181639 #7333]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:08:00.258746 #7333]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:08:00.406818 #7333]  INFO -- : filename valid
+I, [2020-12-04T10:08:05.103230 #7356]  INFO -- : filename valid
+I, [2020-12-04T10:08:05.135567 #7356]  INFO -- : filename valid
+I, [2020-12-04T10:08:05.165536 #7356]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:08:05.181042 #7356]  INFO -- : filename valid
+I, [2020-12-04T10:08:05.265922 #7356]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:12:45.747304 #7669]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:12:45.763519 #7669]  INFO -- : filename valid
+I, [2020-12-04T10:12:45.786197 #7669]  INFO -- : filename valid
+I, [2020-12-04T10:12:45.843068 #7669]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:12:46.037910 #7669]  INFO -- : filename valid
+I, [2020-12-04T10:14:10.670697 #7752]  INFO -- : filename valid
+I, [2020-12-04T10:14:10.711342 #7752]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:14:10.758816 #7752]  INFO -- : filename valid
+I, [2020-12-04T10:14:10.768577 #7752]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:14:10.781807 #7752]  INFO -- : filename valid
+I, [2020-12-04T10:15:09.596796 #7833]  INFO -- : filename valid
+I, [2020-12-04T10:15:09.637635 #7833]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:15:09.747432 #7833]  INFO -- : filename valid
+I, [2020-12-04T10:15:09.764613 #7833]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:15:09.861840 #7833]  INFO -- : filename valid
+I, [2020-12-04T10:16:46.051202 #8026]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:16:46.072216 #8026]  INFO -- : filename valid
+I, [2020-12-04T10:16:46.152728 #8026]  INFO -- : filename valid
+I, [2020-12-04T10:16:46.195158 #8026]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:16:46.350542 #8026]  INFO -- : filename valid
+I, [2020-12-04T10:17:02.960414 #8083]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:17:03.125288 #8083]  INFO -- : filename valid
+I, [2020-12-04T10:17:03.206167 #8083]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:17:03.218646 #8083]  INFO -- : filename valid
+I, [2020-12-04T10:17:03.245645 #8083]  INFO -- : filename valid
+I, [2020-12-04T10:17:15.792368 #8104]  INFO -- : filename valid
+I, [2020-12-04T10:17:15.895218 #8104]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:17:15.943441 #8104]  INFO -- : filename valid
+I, [2020-12-04T10:17:15.953310 #8104]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:17:15.995654 #8104]  INFO -- : filename valid
+I, [2020-12-04T10:17:33.842900 #8128]  INFO -- : filename valid
+I, [2020-12-04T10:17:33.948507 #8128]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:17:33.957436 #8128]  INFO -- : filename valid
+I, [2020-12-04T10:17:34.029132 #8128]  INFO -- : filename valid
+I, [2020-12-04T10:17:34.070550 #8128]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:18:03.145372 #8171]  INFO -- : filename valid
+I, [2020-12-04T10:18:03.217537 #8171]  INFO -- : filename valid
+I, [2020-12-04T10:18:03.324846 #8171]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:18:03.368236 #8171]  INFO -- : filename valid
+I, [2020-12-04T10:18:03.407178 #8171]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:49:23.651983 #9695]  INFO -- : filename valid
+I, [2020-12-04T10:49:23.729804 #9695]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:49:23.822218 #9695]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:49:23.849939 #9695]  INFO -- : filename valid
+I, [2020-12-04T10:49:23.862389 #9695]  INFO -- : filename valid
+I, [2020-12-04T10:49:30.658841 #9730]  INFO -- : filename valid
+I, [2020-12-04T10:49:30.692282 #9730]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:49:30.706760 #9730]  INFO -- : filename valid
+I, [2020-12-04T10:49:30.746773 #9730]  INFO -- : filename valid
+I, [2020-12-04T10:49:30.799311 #9730]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:56:24.981185 #11908]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:56:25.027534 #11908]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:56:25.056717 #11908]  INFO -- : filename valid
+I, [2020-12-04T10:56:25.185955 #11908]  INFO -- : filename valid
+I, [2020-12-04T10:56:25.223530 #11908]  INFO -- : filename valid
+I, [2020-12-04T10:58:38.619913 #12045]  INFO -- : filename valid
+I, [2020-12-04T10:58:38.709074 #12045]  INFO -- : filename valid
+I, [2020-12-04T10:58:38.795130 #12045]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:58:38.828778 #12045]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:58:38.858798 #12045]  INFO -- : filename valid
+I, [2020-12-04T10:59:25.346863 #12105]  INFO -- : filename valid
+I, [2020-12-04T10:59:25.467807 #12105]  INFO -- : filename valid
+I, [2020-12-04T10:59:25.529672 #12105]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T10:59:25.545891 #12105]  INFO -- : filename valid
+I, [2020-12-04T10:59:25.592197 #12105]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:07:30.925388 #12567]  INFO -- : filename valid
+I, [2020-12-04T11:07:30.992775 #12567]  INFO -- : filename valid
+I, [2020-12-04T11:07:31.003709 #12567]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:07:31.047998 #12567]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:07:31.180662 #12567]  INFO -- : filename valid
+I, [2020-12-04T11:07:41.541750 #12605]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:07:41.601698 #12605]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:07:41.705739 #12605]  INFO -- : filename valid
+I, [2020-12-04T11:07:41.716697 #12605]  INFO -- : filename valid
+I, [2020-12-04T11:07:41.729701 #12605]  INFO -- : filename valid
+I, [2020-12-04T11:08:54.253328 #12722]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:08:54.264416 #12722]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:08:54.370345 #12722]  INFO -- : filename valid
+I, [2020-12-04T11:08:54.450333 #12722]  INFO -- : filename valid
+I, [2020-12-04T11:08:54.461936 #12722]  INFO -- : filename valid
+I, [2020-12-04T11:09:08.925514 #12759]  INFO -- : filename valid
+I, [2020-12-04T11:09:08.982086 #12759]  INFO -- : filename valid
+I, [2020-12-04T11:09:09.100181 #12759]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:09:09.138216 #12759]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:09:09.173334 #12759]  INFO -- : filename valid
+I, [2020-12-04T11:09:17.528138 #12795]  INFO -- : filename valid
+I, [2020-12-04T11:09:17.538573 #12795]  INFO -- : filename valid
+I, [2020-12-04T11:09:17.582163 #12795]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:09:17.600564 #12795]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:09:17.634954 #12795]  INFO -- : filename valid
+I, [2020-12-04T11:14:53.126842 #13058]  INFO -- : filename valid
+I, [2020-12-04T11:14:53.149139 #13058]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:14:53.165048 #13058]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:14:53.221447 #13058]  INFO -- : filename valid
+I, [2020-12-04T11:14:53.232214 #13058]  INFO -- : filename valid
+I, [2020-12-04T11:14:53.284045 #13058]  INFO -- : params[:username]: 
+I, [2020-12-04T11:16:13.150050 #13114]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:16:13.160439 #13114]  INFO -- : filename valid
+I, [2020-12-04T11:16:13.210606 #13114]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:16:13.254781 #13114]  INFO -- : filename valid
+I, [2020-12-04T11:16:13.275668 #13114]  INFO -- : filename valid
+I, [2020-12-04T11:16:33.685530 #13172]  INFO -- : filename valid
+I, [2020-12-04T11:16:33.700430 #13172]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:16:33.755732 #13172]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:16:33.822058 #13172]  INFO -- : filename valid
+I, [2020-12-04T11:16:33.857140 #13172]  INFO -- : filename valid
+I, [2020-12-04T11:16:33.942712 #13172]  INFO -- : params[:username]: 
+I, [2020-12-04T11:19:20.661330 #13288]  INFO -- : filename valid
+I, [2020-12-04T11:19:20.798246 #13288]  INFO -- : filename valid
+I, [2020-12-04T11:19:20.829296 #13288]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:19:20.863769 #13288]  INFO -- : filename valid
+I, [2020-12-04T11:19:20.940108 #13288]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:19:20.952239 #13288]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:20:25.103289 #13341]  INFO -- : filename valid
+I, [2020-12-04T11:20:25.119977 #13341]  INFO -- : filename valid
+I, [2020-12-04T11:20:25.144984 #13341]  INFO -- : filename valid
+I, [2020-12-04T11:20:25.250119 #13341]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:20:25.360961 #13341]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:20:25.396474 #13341]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:20:56.074394 #13383]  INFO -- : filename valid
+I, [2020-12-04T11:20:56.112909 #13383]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:20:56.123519 #13383]  INFO -- : filename valid
+I, [2020-12-04T11:20:56.195615 #13383]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:20:56.218044 #13383]  INFO -- : filename valid
+I, [2020-12-04T11:20:56.228028 #13383]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:21:30.895612 #13471]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:21:30.966070 #13471]  INFO -- : filename valid
+I, [2020-12-04T11:21:30.996573 #13471]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:21:31.017644 #13471]  INFO -- : filename valid
+I, [2020-12-04T11:21:31.066075 #13471]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:21:31.107952 #13471]  INFO -- : filename valid
+I, [2020-12-04T11:43:45.199111 #14954]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:43:45.209699 #14954]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:43:45.222946 #14954]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:43:45.372740 #14954]  INFO -- : filename valid
+I, [2020-12-04T11:43:45.408818 #14954]  INFO -- : filename valid
+I, [2020-12-04T11:43:45.418954 #14954]  INFO -- : filename valid
+I, [2020-12-04T11:43:49.807804 #14974]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:43:49.862166 #14974]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:43:49.872474 #14974]  INFO -- : filename valid
+I, [2020-12-04T11:43:49.936724 #14974]  INFO -- : filename valid
+I, [2020-12-04T11:43:50.001627 #14974]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:43:50.032290 #14974]  INFO -- : filename valid
+I, [2020-12-04T11:45:47.660518 #15144]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:45:47.779984 #15144]  INFO -- : filename valid
+I, [2020-12-04T11:45:47.790035 #15144]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:45:47.816669 #15144]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:45:47.881101 #15144]  INFO -- : filename valid
+I, [2020-12-04T11:45:47.946680 #15144]  INFO -- : filename valid
+I, [2020-12-04T11:46:13.586373 #15203]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:46:13.597025 #15203]  INFO -- : filename valid
+I, [2020-12-04T11:46:13.613926 #15203]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:46:13.669720 #15203]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:46:13.725382 #15203]  INFO -- : filename valid
+I, [2020-12-04T11:46:13.789612 #15203]  INFO -- : filename valid
+I, [2020-12-04T11:51:59.831208 #15451]  INFO -- : filename valid
+I, [2020-12-04T11:51:59.849563 #15451]  INFO -- : params[:username]: admin
+I, [2020-12-04T11:51:59.912616 #15451]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:52:00.014167 #15451]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T11:52:00.025608 #15451]  INFO -- : filename valid
+I, [2020-12-04T11:52:00.035844 #15451]  INFO -- : filename valid
+I, [2020-12-04T12:00:11.806333 #15869]  INFO -- : filename valid
+I, [2020-12-04T12:00:11.842644 #15869]  INFO -- : filename valid
+I, [2020-12-04T12:00:11.853085 #15869]  INFO -- : filename valid
+I, [2020-12-04T12:00:11.913601 #15869]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:00:11.954943 #15869]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:00:12.061809 #15869]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:00:32.291152 #15923]  INFO -- : filename valid
+I, [2020-12-04T12:00:32.361401 #15923]  INFO -- : filename valid
+I, [2020-12-04T12:00:32.376176 #15923]  INFO -- : filename valid
+I, [2020-12-04T12:00:32.410627 #15923]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:00:32.553800 #15923]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:00:32.566244 #15923]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:00:32.577360 #15923]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:02:09.131652 #16063]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:02:09.159396 #16063]  INFO -- : filename valid
+I, [2020-12-04T12:02:09.184818 #16063]  INFO -- : filename valid
+I, [2020-12-04T12:02:09.282239 #16063]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:02:09.291943 #16063]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:02:09.377415 #16063]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:02:09.417942 #16063]  INFO -- : filename valid
+I, [2020-12-04T12:02:18.489647 #16105]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:02:18.509632 #16105]  INFO -- : filename valid
+I, [2020-12-04T12:02:18.544004 #16105]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:02:18.554333 #16105]  INFO -- : filename valid
+I, [2020-12-04T12:02:18.589716 #16105]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:02:18.667927 #16105]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:02:18.694000 #16105]  INFO -- : filename valid
+I, [2020-12-04T12:05:43.153559 #16214]  INFO -- : filename valid
+I, [2020-12-04T12:05:43.275297 #16214]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:05:43.302243 #16214]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:05:43.323175 #16214]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:05:43.350994 #16214]  INFO -- : filename valid
+I, [2020-12-04T12:05:43.360955 #16214]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:05:43.390710 #16214]  INFO -- : filename valid
+I, [2020-12-04T12:07:21.522540 #16416]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:07:21.578610 #16416]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:07:21.612350 #16416]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:07:21.622761 #16416]  INFO -- : filename valid
+I, [2020-12-04T12:07:21.643389 #16416]  INFO -- : filename valid
+I, [2020-12-04T12:07:21.693037 #16416]  INFO -- : filename valid
+I, [2020-12-04T12:07:21.710214 #16416]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:09:18.523571 #16670]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:09:18.534053 #16670]  INFO -- : filename valid
+I, [2020-12-04T12:09:18.548745 #16670]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:09:18.560144 #16670]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:09:18.697660 #16670]  INFO -- : filename valid
+I, [2020-12-04T12:09:18.723517 #16670]  INFO -- : filename valid
+I, [2020-12-04T12:09:18.837941 #16670]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:19:01.358274 #17041]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:19:01.421618 #17041]  INFO -- : filename valid
+I, [2020-12-04T12:19:01.438088 #17041]  INFO -- : filename valid
+I, [2020-12-04T12:19:01.449268 #17041]  INFO -- : filename valid
+I, [2020-12-04T12:19:01.477082 #17041]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:19:01.520992 #17041]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:19:01.630481 #17041]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:27:47.274073 #17840]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:27:47.314372 #17840]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:27:47.324491 #17840]  INFO -- : filename valid
+I, [2020-12-04T12:27:47.351571 #17840]  INFO -- : filename valid
+I, [2020-12-04T12:27:47.368011 #17840]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:27:47.408457 #17840]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:27:47.511336 #17840]  INFO -- : filename valid
+I, [2020-12-04T12:31:20.729780 #18163]  INFO -- : filename valid
+I, [2020-12-04T12:31:20.772013 #18163]  INFO -- : filename valid
+I, [2020-12-04T12:31:20.807030 #18163]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:31:20.823902 #18163]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:31:20.838943 #18163]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:31:20.890115 #18163]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:31:20.974568 #18163]  INFO -- : filename valid
+I, [2020-12-04T12:31:25.858029 #18198]  INFO -- : filename valid
+I, [2020-12-04T12:31:25.958240 #18198]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:31:25.973557 #18198]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:31:25.987536 #18198]  INFO -- : params[:username]: admin
+I, [2020-12-04T12:31:26.051717 #18198]  INFO -- : filename valid
+I, [2020-12-04T12:31:26.065017 #18198]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T12:31:26.146978 #18198]  INFO -- : filename valid
+I, [2020-12-04T14:20:07.568250 #18632]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:20:07.590213 #18632]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:20:07.629920 #18632]  INFO -- : filename valid
+I, [2020-12-04T14:20:07.671499 #18632]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:20:07.759147 #18632]  INFO -- : filename valid
+I, [2020-12-04T14:20:07.838998 #18632]  INFO -- : filename valid
+I, [2020-12-04T14:20:07.872027 #18632]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:31:20.691824 #19508]  INFO -- : filename valid
+I, [2020-12-04T14:31:20.735984 #19508]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:31:20.841928 #19508]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:31:20.849959 #19508]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:31:20.933044 #19508]  INFO -- : filename valid
+I, [2020-12-04T14:31:20.949441 #19508]  INFO -- : filename valid
+I, [2020-12-04T14:31:20.998196 #19508]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:31:44.569062 #19580]  INFO -- : filename valid
+I, [2020-12-04T14:31:44.581667 #19580]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:31:44.604052 #19580]  INFO -- : filename valid
+I, [2020-12-04T14:31:44.628467 #19580]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:31:44.694024 #19580]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:31:44.755064 #19580]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:31:44.771545 #19580]  INFO -- : filename valid
+I, [2020-12-04T14:31:48.097358 #19600]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:31:48.124022 #19600]  INFO -- : filename valid
+I, [2020-12-04T14:31:48.139424 #19600]  INFO -- : filename valid
+I, [2020-12-04T14:31:48.251392 #19600]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:31:48.283046 #19600]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:31:48.307846 #19600]  INFO -- : filename valid
+I, [2020-12-04T14:31:48.337374 #19600]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:32:24.494085 #19663]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:32:24.546246 #19663]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:32:24.587868 #19663]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:32:24.620334 #19663]  INFO -- : filename valid
+I, [2020-12-04T14:32:24.633198 #19663]  INFO -- : filename valid
+I, [2020-12-04T14:32:24.669381 #19663]  INFO -- : filename valid
+I, [2020-12-04T14:32:24.681862 #19663]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:32:31.096167 #19685]  INFO -- : filename valid
+I, [2020-12-04T14:32:31.191908 #19685]  INFO -- : filename valid
+I, [2020-12-04T14:32:31.201802 #19685]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:32:31.234928 #19685]  INFO -- : filename valid
+I, [2020-12-04T14:32:31.328132 #19685]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:32:31.389084 #19685]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:32:31.419265 #19685]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:33:17.856367 #19714]  INFO -- : filename valid
+I, [2020-12-04T14:33:17.894760 #19714]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:33:17.906326 #19714]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:33:17.947588 #19714]  INFO -- : filename valid
+I, [2020-12-04T14:33:18.022805 #19714]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:33:18.052728 #19714]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:33:18.079241 #19714]  INFO -- : filename valid
+I, [2020-12-04T14:33:56.403605 #19761]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:33:56.428971 #19761]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:33:56.460131 #19761]  INFO -- : filename valid
+I, [2020-12-04T14:33:56.483709 #19761]  INFO -- : filename valid
+I, [2020-12-04T14:33:56.545863 #19761]  INFO -- : filename valid
+I, [2020-12-04T14:33:56.568312 #19761]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:33:56.706697 #19761]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:34:00.759881 #19782]  INFO -- : filename valid
+I, [2020-12-04T14:34:00.854227 #19782]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:34:00.865634 #19782]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:34:00.911397 #19782]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:34:00.921403 #19782]  INFO -- : filename valid
+I, [2020-12-04T14:34:00.962021 #19782]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:34:01.060965 #19782]  INFO -- : filename valid
+I, [2020-12-04T14:34:37.759052 #19826]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:34:37.795900 #19826]  INFO -- : filename valid
+I, [2020-12-04T14:34:37.812508 #19826]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:34:37.842355 #19826]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:34:37.851307 #19826]  INFO -- : filename valid
+I, [2020-12-04T14:34:37.996899 #19826]  INFO -- : filename valid
+I, [2020-12-04T14:34:38.090502 #19826]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:36:08.341935 #19918]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:36:08.455083 #19918]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:36:08.464317 #19918]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:36:08.539785 #19918]  INFO -- : filename valid
+I, [2020-12-04T14:36:08.580671 #19918]  INFO -- : filename valid
+I, [2020-12-04T14:36:08.601119 #19918]  INFO -- : filename valid
+I, [2020-12-04T14:36:08.632110 #19918]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:38:15.617466 #20048]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:38:15.640269 #20048]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:38:15.661946 #20048]  INFO -- : filename valid
+I, [2020-12-04T14:38:15.705019 #20048]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:38:15.762532 #20048]  INFO -- : filename valid
+I, [2020-12-04T14:38:15.813668 #20048]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:38:15.882028 #20048]  INFO -- : filename valid
+I, [2020-12-04T14:38:34.181478 #20088]  INFO -- : filename valid
+I, [2020-12-04T14:38:34.216437 #20088]  INFO -- : filename valid
+I, [2020-12-04T14:38:34.274752 #20088]  INFO -- : filename valid
+I, [2020-12-04T14:38:34.320023 #20088]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:38:34.348619 #20088]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:38:34.388044 #20088]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:38:34.433952 #20088]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:42:13.504932 #20208]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:42:13.532745 #20208]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:42:13.652670 #20208]  INFO -- : filename valid
+I, [2020-12-04T14:42:13.769334 #20208]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:42:13.778852 #20208]  INFO -- : filename valid
+I, [2020-12-04T14:42:13.797672 #20208]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:42:13.858824 #20208]  INFO -- : filename valid
+I, [2020-12-04T14:43:02.090974 #20271]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:43:02.193216 #20271]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:43:02.208722 #20271]  INFO -- : filename valid
+I, [2020-12-04T14:43:02.238596 #20271]  INFO -- : filename valid
+I, [2020-12-04T14:43:02.251818 #20271]  INFO -- : filename valid
+I, [2020-12-04T14:43:02.325100 #20271]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:43:02.361948 #20271]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:45:05.542737 #20420]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:45:05.689872 #20420]  INFO -- : filename valid
+I, [2020-12-04T14:45:05.756399 #20420]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:45:05.782409 #20420]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:45:05.793726 #20420]  INFO -- : filename valid
+I, [2020-12-04T14:45:05.809576 #20420]  INFO -- : filename valid
+I, [2020-12-04T14:45:05.829006 #20420]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:45:10.514216 #20440]  INFO -- : filename valid
+I, [2020-12-04T14:45:10.560468 #20440]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:45:10.632164 #20440]  INFO -- : filename valid
+I, [2020-12-04T14:45:10.642686 #20440]  INFO -- : filename valid
+I, [2020-12-04T14:45:10.740558 #20440]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:45:10.754639 #20440]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:45:10.807199 #20440]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:46:15.623914 #20481]  INFO -- : filename valid
+I, [2020-12-04T14:46:15.664647 #20481]  INFO -- : filename valid
+I, [2020-12-04T14:46:15.743489 #20481]  INFO -- : filename valid
+I, [2020-12-04T14:46:15.822723 #20481]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:46:15.870968 #20481]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:46:34.468265 #20508]  INFO -- : filename valid
+I, [2020-12-04T14:46:34.478251 #20508]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:46:34.503897 #20508]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:46:34.537259 #20508]  INFO -- : filename valid
+I, [2020-12-04T14:46:34.582368 #20508]  INFO -- : filename valid
+I, [2020-12-04T14:46:41.153401 #20543]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:46:41.311015 #20543]  INFO -- : filename valid
+I, [2020-12-04T14:46:41.342009 #20543]  INFO -- : filename valid
+I, [2020-12-04T14:46:41.376731 #20543]  INFO -- : filename valid
+I, [2020-12-04T14:46:41.403667 #20543]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:47:00.953297 #20569]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:47:00.982044 #20569]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:47:01.003520 #20569]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:47:01.050136 #20569]  INFO -- : filename valid
+I, [2020-12-04T14:47:01.065837 #20569]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:47:01.103337 #20569]  INFO -- : filename valid
+I, [2020-12-04T14:47:01.147301 #20569]  INFO -- : filename valid
+I, [2020-12-04T14:47:08.619511 #20604]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:47:08.655762 #20604]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:47:08.682460 #20604]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:47:08.754036 #20604]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:47:08.782612 #20604]  INFO -- : filename valid
+I, [2020-12-04T14:47:08.861560 #20604]  INFO -- : filename valid
+I, [2020-12-04T14:47:08.884921 #20604]  INFO -- : filename valid
+I, [2020-12-04T14:49:21.277794 #20771]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:49:21.351281 #20771]  INFO -- : filename valid
+I, [2020-12-04T14:49:21.403561 #20771]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:49:21.437767 #20771]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:49:21.462788 #20771]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:49:21.599058 #20771]  INFO -- : filename valid
+I, [2020-12-04T14:49:21.623144 #20771]  INFO -- : filename valid
+I, [2020-12-04T14:58:06.705117 #20963]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:58:06.772032 #20963]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:58:06.869513 #20963]  INFO -- : filename valid
+I, [2020-12-04T14:58:06.882362 #20963]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:58:06.891863 #20963]  INFO -- : filename valid
+I, [2020-12-04T14:58:06.906829 #20963]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:58:06.928845 #20963]  INFO -- : filename valid
+I, [2020-12-04T14:59:17.671712 #21009]  INFO -- : filename valid
+I, [2020-12-04T14:59:17.691045 #21009]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:59:17.713782 #21009]  INFO -- : filename valid
+I, [2020-12-04T14:59:17.754498 #21009]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T14:59:17.790061 #21009]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:59:17.812168 #21009]  INFO -- : params[:username]: admin
+I, [2020-12-04T14:59:17.828312 #21009]  INFO -- : filename valid
+I, [2020-12-04T15:07:54.820786 #21367]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:07:54.908541 #21367]  INFO -- : filename valid
+I, [2020-12-04T15:07:54.935384 #21367]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:07:55.012706 #21367]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:07:55.091682 #21367]  INFO -- : filename valid
+I, [2020-12-04T15:07:55.103638 #21367]  INFO -- : filename valid
+I, [2020-12-04T15:07:55.165336 #21367]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:09:17.112612 #21446]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:09:17.280628 #21446]  INFO -- : filename valid
+I, [2020-12-04T15:09:17.290803 #21446]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:09:17.302354 #21446]  INFO -- : filename valid
+I, [2020-12-04T15:09:17.345520 #21446]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:09:17.357107 #21446]  INFO -- : filename valid
+I, [2020-12-04T15:09:17.455649 #21446]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:09:39.115295 #21470]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:09:39.168595 #21470]  INFO -- : filename valid
+I, [2020-12-04T15:09:39.178647 #21470]  INFO -- : filename valid
+I, [2020-12-04T15:09:39.249582 #21470]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:09:39.338753 #21470]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:09:39.368593 #21470]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:09:39.496609 #21470]  INFO -- : filename valid
+I, [2020-12-04T15:10:03.503010 #21545]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:10:03.561604 #21545]  INFO -- : filename valid
+I, [2020-12-04T15:10:03.577856 #21545]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:10:03.618172 #21545]  INFO -- : filename valid
+I, [2020-12-04T15:10:03.669042 #21545]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:10:03.681195 #21545]  INFO -- : filename valid
+I, [2020-12-04T15:10:03.734432 #21545]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:10:59.501644 #21608]  INFO -- : filename valid
+I, [2020-12-04T15:10:59.522062 #21608]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:10:59.581260 #21608]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:10:59.601389 #21608]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:10:59.635371 #21608]  INFO -- : filename valid
+I, [2020-12-04T15:10:59.662132 #21608]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:10:59.854986 #21608]  INFO -- : filename valid
+I, [2020-12-04T15:17:34.434960 #22158]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:17:34.444579 #22158]  INFO -- : filename valid
+I, [2020-12-04T15:17:34.551093 #22158]  INFO -- : filename valid
+I, [2020-12-04T15:17:34.585244 #22158]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:17:34.658636 #22158]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:17:34.798838 #22158]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:17:34.823689 #22158]  INFO -- : filename valid
+I, [2020-12-04T15:18:01.126877 #22215]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:18:01.152185 #22215]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:18:01.169801 #22215]  INFO -- : filename valid
+I, [2020-12-04T15:18:01.223419 #22215]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:18:01.280927 #22215]  INFO -- : filename valid
+I, [2020-12-04T15:18:01.299953 #22215]  INFO -- : filename valid
+I, [2020-12-04T15:18:01.445277 #22215]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:18:21.882564 #22238]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:18:21.906507 #22238]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:18:21.926901 #22238]  INFO -- : filename valid
+I, [2020-12-04T15:18:21.943401 #22238]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:18:22.128063 #22238]  INFO -- : filename valid
+I, [2020-12-04T15:18:22.149571 #22238]  INFO -- : filename valid
+I, [2020-12-04T15:18:22.244800 #22238]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:18:58.615858 #22297]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:18:58.648415 #22297]  INFO -- : filename valid
+I, [2020-12-04T15:18:58.668982 #22297]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:18:58.912672 #22297]  INFO -- : filename valid
+I, [2020-12-04T15:18:58.935382 #22297]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:18:58.962643 #22297]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:18:58.995178 #22297]  INFO -- : filename valid
+I, [2020-12-04T15:19:42.570137 #22338]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:19:42.599755 #22338]  INFO -- : filename valid
+I, [2020-12-04T15:19:42.612646 #22338]  INFO -- : filename valid
+I, [2020-12-04T15:19:42.626271 #22338]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:19:42.668105 #22338]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:19:42.748404 #22338]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:19:42.792157 #22338]  INFO -- : filename valid
+I, [2020-12-04T15:34:07.063450 #23189]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:34:07.073382 #23189]  INFO -- : filename valid
+I, [2020-12-04T15:34:07.149802 #23189]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:34:07.183106 #23189]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:34:07.232631 #23189]  INFO -- : filename valid
+I, [2020-12-04T15:34:07.262243 #23189]  INFO -- : filename valid
+I, [2020-12-04T15:34:07.283797 #23189]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:37:25.994225 #23340]  INFO -- : filename valid
+I, [2020-12-04T15:37:26.020510 #23340]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:37:26.071930 #23340]  INFO -- : filename valid
+I, [2020-12-04T15:37:26.178400 #23340]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:37:26.189457 #23340]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:37:26.240213 #23340]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:37:26.359788 #23340]  INFO -- : filename valid
+I, [2020-12-04T15:38:26.622750 #23377]  INFO -- : filename valid
+I, [2020-12-04T15:38:26.689927 #23377]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:38:26.743785 #23377]  INFO -- : filename valid
+I, [2020-12-04T15:38:26.842901 #23377]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:38:26.857857 #23377]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:38:26.906972 #23377]  INFO -- : filename valid
+I, [2020-12-04T15:38:26.988663 #23377]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:39:21.110648 #23448]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:39:21.147894 #23448]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:39:21.209759 #23448]  INFO -- : filename valid
+I, [2020-12-04T15:39:21.241486 #23448]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:39:21.298953 #23448]  INFO -- : Should delete user: 
+I, [2020-12-04T15:39:21.312522 #23448]  INFO -- : filename valid
+I, [2020-12-04T15:39:21.346005 #23448]  INFO -- : filename valid
+I, [2020-12-04T15:39:21.361245 #23448]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:40:20.836644 #23501]  INFO -- : filename valid
+I, [2020-12-04T15:40:20.876489 #23501]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:40:20.914340 #23501]  INFO -- : filename valid
+I, [2020-12-04T15:40:20.975182 #23501]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:40:21.032780 #23501]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:40:21.042649 #23501]  INFO -- : filename valid
+I, [2020-12-04T15:40:21.131435 #23501]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:41:31.493248 #23588]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:41:31.586733 #23588]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:41:31.638862 #23588]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:41:31.663392 #23588]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:41:31.717412 #23588]  INFO -- : filename valid
+I, [2020-12-04T15:41:31.754545 #23588]  INFO -- : filename valid
+I, [2020-12-04T15:41:31.768390 #23588]  INFO -- : filename valid
+I, [2020-12-04T15:45:20.622520 #23688]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:45:20.647211 #23688]  INFO -- : filename valid
+I, [2020-12-04T15:45:20.671065 #23688]  INFO -- : filename valid
+I, [2020-12-04T15:45:20.700228 #23688]  INFO -- : filename valid
+I, [2020-12-04T15:45:20.764494 #23688]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:45:20.814412 #23688]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:45:20.959354 #23688]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:45:25.817831 #23713]  INFO -- : filename valid
+I, [2020-12-04T15:45:25.834574 #23713]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:45:25.861727 #23713]  INFO -- : filename valid
+I, [2020-12-04T15:45:25.914404 #23713]  INFO -- : filename valid
+I, [2020-12-04T15:45:25.936706 #23713]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:45:25.989042 #23713]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:45:26.174417 #23713]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:45:58.702845 #23763]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:45:58.765518 #23763]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:45:58.823896 #23763]  INFO -- : filename valid
+I, [2020-12-04T15:45:58.918332 #23763]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:45:58.935844 #23763]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:45:58.955708 #23763]  INFO -- : filename valid
+I, [2020-12-04T15:45:59.047223 #23763]  INFO -- : filename valid
+I, [2020-12-04T15:49:50.826447 #23927]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:49:50.860839 #23927]  INFO -- : filename valid
+I, [2020-12-04T15:49:51.090702 #23927]  INFO -- : filename valid
+I, [2020-12-04T15:49:51.100894 #23927]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:49:51.120696 #23927]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:49:51.190387 #23927]  INFO -- : filename valid
+I, [2020-12-04T15:49:51.200050 #23927]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:52:06.172125 #24050]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:52:06.181976 #24050]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:52:06.205882 #24050]  INFO -- : filename valid
+I, [2020-12-04T15:52:06.241768 #24050]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:52:06.281842 #24050]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:52:06.377453 #24050]  INFO -- : filename valid
+I, [2020-12-04T15:52:06.447811 #24050]  INFO -- : filename valid
+I, [2020-12-04T15:58:49.595699 #24359]  INFO -- : filename valid
+I, [2020-12-04T15:58:49.641529 #24359]  INFO -- : filename valid
+I, [2020-12-04T15:58:49.715526 #24359]  INFO -- : filename valid
+I, [2020-12-04T15:58:49.729560 #24359]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:58:49.854471 #24359]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T15:58:49.865886 #24359]  INFO -- : params[:username]: admin
+I, [2020-12-04T15:58:49.902733 #24359]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:08:15.407054 #24702]  INFO -- : filename valid
+I, [2020-12-04T18:08:15.420451 #24702]  INFO -- : filename valid
+I, [2020-12-04T18:08:15.522104 #24702]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:08:15.535621 #24702]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:08:15.554361 #24702]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:08:15.614629 #24702]  INFO -- : filename valid
+I, [2020-12-04T18:08:15.671265 #24702]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:10:10.844371 #24862]  INFO -- : filename valid
+I, [2020-12-04T18:10:10.883429 #24862]  INFO -- : filename valid
+I, [2020-12-04T18:10:10.948947 #24862]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:10:11.014231 #24862]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:10:11.129196 #24862]  INFO -- : filename valid
+I, [2020-12-04T18:10:11.179321 #24862]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:10:11.211770 #24862]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:11:20.171834 #24923]  INFO -- : filename valid
+I, [2020-12-04T18:11:20.188980 #24923]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:11:20.208808 #24923]  INFO -- : filename valid
+I, [2020-12-04T18:11:20.221895 #24923]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:11:20.230903 #24923]  INFO -- : filename valid
+I, [2020-12-04T18:11:20.245066 #24923]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:11:20.301964 #24923]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:12:11.276193 #25002]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:12:11.289875 #25002]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:12:11.315204 #25002]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:12:11.367735 #25002]  INFO -- : filename valid
+I, [2020-12-04T18:12:11.436011 #25002]  INFO -- : filename valid
+I, [2020-12-04T18:12:11.465287 #25002]  INFO -- : filename valid
+I, [2020-12-04T18:12:11.477589 #25002]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:12:15.368452 #25026]  INFO -- : params[:username]: admin
+I, [2020-12-04T18:12:15.398417 #25026]  INFO -- : filename valid
+I, [2020-12-04T18:12:15.473086 #25026]  INFO -- : filename valid
+I, [2020-12-04T18:12:15.498043 #25026]  INFO -- : filename valid
+I, [2020-12-04T18:12:15.614692 #25026]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:12:15.676872 #25026]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T18:12:15.781828 #25026]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:06:30.451480 #28967]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:06:30.567841 #28967]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:06:30.589507 #28967]  INFO -- : filename valid
+I, [2020-12-04T20:06:30.746183 #28967]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:06:30.757842 #28967]  INFO -- : filename valid
+I, [2020-12-04T20:06:30.780573 #28967]  INFO -- : filename valid
+I, [2020-12-04T20:06:30.806723 #28967]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:18:38.065705 #30798]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:18:38.145818 #30798]  INFO -- : filename valid
+I, [2020-12-04T20:18:38.170797 #30798]  INFO -- : filename valid
+I, [2020-12-04T20:18:38.215616 #30798]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:18:38.249215 #30798]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:18:38.317300 #30798]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:18:38.407649 #30798]  INFO -- : filename valid
+I, [2020-12-04T20:19:05.772465 #30825]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:19:05.784531 #30825]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:19:05.828748 #30825]  INFO -- : filename valid
+I, [2020-12-04T20:19:05.843226 #30825]  INFO -- : filename valid
+I, [2020-12-04T20:19:05.880947 #30825]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:19:05.993223 #30825]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:19:06.047304 #30825]  INFO -- : filename valid
+I, [2020-12-04T20:19:40.514574 #30859]  INFO -- : filename valid
+I, [2020-12-04T20:19:40.598271 #30859]  INFO -- : filename valid
+I, [2020-12-04T20:19:40.628675 #30859]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:19:40.640021 #30859]  INFO -- : filename valid
+I, [2020-12-04T20:19:40.678282 #30859]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:19:40.686516 #30859]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:19:40.757323 #30859]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:33:58.512109 #31608]  INFO -- : filename valid
+I, [2020-12-04T20:33:58.551173 #31608]  INFO -- : filename valid
+I, [2020-12-04T20:33:58.728359 #31608]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:33:58.736957 #31608]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:33:58.813972 #31608]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:33:58.826400 #31608]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:33:58.850691 #31608]  INFO -- : filename valid
+I, [2020-12-04T20:35:02.019244 #31742]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:35:02.136886 #31742]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:35:02.150106 #31742]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:35:02.158492 #31742]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:35:02.300415 #31742]  INFO -- : filename valid
+I, [2020-12-04T20:35:02.320698 #31742]  INFO -- : filename valid
+I, [2020-12-04T20:35:02.364162 #31742]  INFO -- : filename valid
+I, [2020-12-04T20:35:52.777122 #31840]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:35:52.826025 #31840]  INFO -- : filename valid
+I, [2020-12-04T20:35:52.890763 #31840]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:35:52.938817 #31840]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:35:52.955793 #31840]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:35:52.985733 #31840]  INFO -- : filename valid
+I, [2020-12-04T20:35:53.108886 #31840]  INFO -- : filename valid
+I, [2020-12-04T20:36:10.577407 #31876]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:36:10.618259 #31876]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:36:10.662067 #31876]  INFO -- : filename valid
+I, [2020-12-04T20:36:10.708823 #31876]  INFO -- : filename valid
+I, [2020-12-04T20:36:10.724207 #31876]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:36:10.828904 #31876]  INFO -- : filename valid
+I, [2020-12-04T20:36:10.844879 #31876]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:47:28.054031 #32321]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:47:28.100074 #32321]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:47:28.175711 #32321]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:47:28.209169 #32321]  INFO -- : filename valid
+I, [2020-12-04T20:47:28.238166 #32321]  INFO -- : filename valid
+I, [2020-12-04T20:47:28.261841 #32321]  INFO -- : filename valid
+I, [2020-12-04T20:47:28.307334 #32321]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:49:00.186232 #32394]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:49:00.282233 #32394]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:49:00.376268 #32394]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:49:00.420576 #32394]  INFO -- : filename valid
+I, [2020-12-04T20:49:00.453549 #32394]  INFO -- : filename valid
+I, [2020-12-04T20:49:00.462718 #32394]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:49:00.473638 #32394]  INFO -- : filename valid
+I, [2020-12-04T20:55:48.920601 #32752]  INFO -- : filename valid
+I, [2020-12-04T20:55:48.957241 #32752]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:55:49.035016 #32752]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:55:49.089454 #32752]  INFO -- : filename valid
+I, [2020-12-04T20:55:49.124190 #32752]  INFO -- : filename valid
+I, [2020-12-04T20:55:49.157669 #32752]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:55:49.177724 #32752]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:59:29.094509 #614]  INFO -- : filename valid
+I, [2020-12-04T20:59:29.130466 #614]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:59:29.221569 #614]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:59:29.235573 #614]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:59:29.336401 #614]  INFO -- : filename valid
+I, [2020-12-04T20:59:29.393730 #614]  INFO -- : filename valid
+I, [2020-12-04T20:59:29.457288 #614]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:59:50.717570 #669]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:59:50.824167 #669]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T20:59:50.868129 #669]  INFO -- : filename valid
+I, [2020-12-04T20:59:50.880714 #669]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:59:50.933872 #669]  INFO -- : params[:username]: admin
+I, [2020-12-04T20:59:50.953735 #669]  INFO -- : filename valid
+I, [2020-12-04T20:59:50.995022 #669]  INFO -- : filename valid
+I, [2020-12-04T21:00:12.317880 #707]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:00:12.341742 #707]  INFO -- : filename valid
+I, [2020-12-04T21:00:12.390843 #707]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:00:12.463150 #707]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:00:12.553423 #707]  INFO -- : filename valid
+I, [2020-12-04T21:00:12.597365 #707]  INFO -- : filename valid
+I, [2020-12-04T21:00:12.610645 #707]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:02:51.863679 #851]  INFO -- : filename valid
+I, [2020-12-04T21:02:51.885966 #851]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:02:51.895606 #851]  INFO -- : filename valid
+I, [2020-12-04T21:02:51.928775 #851]  INFO -- : filename valid
+I, [2020-12-04T21:02:51.965816 #851]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:02:52.019279 #851]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:02:52.084078 #851]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:07:44.782964 #1443]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:07:44.815524 #1443]  INFO -- : filename valid
+I, [2020-12-04T21:07:44.825584 #1443]  INFO -- : filename valid
+I, [2020-12-04T21:07:44.882547 #1443]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:07:44.938635 #1443]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:07:44.947174 #1443]  INFO -- : filename valid
+I, [2020-12-04T21:07:44.961236 #1443]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:54:49.770036 #3455]  INFO -- : filename valid
+I, [2020-12-04T21:54:49.897660 #3455]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:54:49.937763 #3455]  INFO -- : filename valid
+I, [2020-12-04T21:54:49.952867 #3455]  INFO -- : params[:username]: admin
+I, [2020-12-04T21:54:49.961569 #3455]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:54:49.992004 #3455]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T21:54:50.103644 #3455]  INFO -- : filename valid
+I, [2020-12-04T22:02:15.085974 #3852]  INFO -- : filename valid
+I, [2020-12-04T22:02:15.112110 #3852]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:02:15.182320 #3852]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:02:15.190729 #3852]  INFO -- : filename valid
+I, [2020-12-04T22:02:15.319342 #3852]  INFO -- : filename valid
+I, [2020-12-04T22:02:15.362154 #3852]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:02:15.376496 #3852]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:02:49.849780 #3926]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:02:49.860124 #3926]  INFO -- : filename valid
+I, [2020-12-04T22:02:49.982664 #3926]  INFO -- : filename valid
+I, [2020-12-04T22:02:50.075324 #3926]  INFO -- : filename valid
+I, [2020-12-04T22:02:50.116482 #3926]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:02:50.140333 #3926]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:02:50.179541 #3926]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:03:56.137198 #3981]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:03:56.209700 #3981]  INFO -- : filename valid
+I, [2020-12-04T22:03:56.225525 #3981]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:03:56.254615 #3981]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:03:56.263125 #3981]  INFO -- : filename valid
+I, [2020-12-04T22:03:56.275214 #3981]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:03:56.379606 #3981]  INFO -- : filename valid
+I, [2020-12-04T22:04:10.981998 #4036]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:04:11.019733 #4036]  INFO -- : filename valid
+I, [2020-12-04T22:04:11.082430 #4036]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:04:11.127929 #4036]  INFO -- : filename valid
+I, [2020-12-04T22:04:11.239152 #4036]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:04:11.247142 #4036]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:04:11.288448 #4036]  INFO -- : filename valid
+I, [2020-12-04T22:04:20.412818 #4074]  INFO -- : filename valid
+I, [2020-12-04T22:04:20.434246 #4074]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:04:20.464426 #4074]  INFO -- : filename valid
+I, [2020-12-04T22:04:20.498660 #4074]  INFO -- : filename valid
+I, [2020-12-04T22:04:20.528948 #4074]  INFO -- : params[:username]: admin
+I, [2020-12-04T22:04:20.725637 #4074]  INFO -- : Going to delete herstory.txt
+I, [2020-12-04T22:04:20.736031 #4074]  INFO -- : params[:username]: admin
+I, [2020-12-05T09:50:39.531105 #10298]  INFO -- : params[:username]: admin
+I, [2020-12-05T09:50:39.563401 #10298]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T09:50:39.660941 #10298]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T09:50:39.679611 #10298]  INFO -- : filename valid
+I, [2020-12-05T09:50:39.725797 #10298]  INFO -- : filename valid
+I, [2020-12-05T09:50:39.748497 #10298]  INFO -- : params[:username]: admin
+I, [2020-12-05T09:50:39.831592 #10298]  INFO -- : filename valid
+I, [2020-12-05T10:10:53.860524 #10565]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T10:10:54.028308 #10565]  INFO -- : params[:username]: admin
+I, [2020-12-05T10:10:54.037298 #10565]  INFO -- : filename valid
+I, [2020-12-05T10:10:54.105986 #10565]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T10:10:54.157311 #10565]  INFO -- : filename valid
+I, [2020-12-05T10:10:54.172333 #10565]  INFO -- : params[:username]: admin
+I, [2020-12-05T10:10:54.235872 #10565]  INFO -- : filename valid
+I, [2020-12-05T11:00:54.806664 #14810]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:00:55.066665 #14810]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:17:41.629385 #16109]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:17:41.642706 #16109]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:17:41.799375 #16109]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:17:41.861716 #16109]  INFO -- : filename valid
+I, [2020-12-05T11:17:41.911976 #16109]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:17:41.927871 #16109]  INFO -- : filename valid
+I, [2020-12-05T11:17:42.017525 #16109]  INFO -- : filename valid
+I, [2020-12-05T11:17:49.959710 #16143]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:17:50.032144 #16143]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:17:50.040466 #16143]  INFO -- : filename valid
+I, [2020-12-05T11:17:50.057803 #16143]  INFO -- : filename valid
+I, [2020-12-05T11:17:50.187029 #16143]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:17:50.208320 #16143]  INFO -- : filename valid
+I, [2020-12-05T11:17:50.244540 #16143]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:18:27.528821 #16187]  INFO -- : filename valid
+I, [2020-12-05T11:18:27.553217 #16187]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:18:27.655156 #16187]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:18:27.668518 #16187]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:18:27.736931 #16187]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:18:27.752738 #16187]  INFO -- : filename valid
+I, [2020-12-05T11:18:27.776471 #16187]  INFO -- : filename valid
+I, [2020-12-05T11:31:26.525522 #16645]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:31:26.721943 #16645]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:34:41.597154 #16857]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:34:41.710614 #16857]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:35:09.992293 #16918]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:35:10.035974 #16918]  INFO -- : filename valid
+I, [2020-12-05T11:35:10.080543 #16918]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:35:10.190278 #16918]  INFO -- : filename valid
+I, [2020-12-05T11:35:10.217277 #16918]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:35:10.258074 #16918]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:35:10.319218 #16918]  INFO -- : filename valid
+I, [2020-12-05T11:41:33.840115 #17081]  INFO -- : filename valid
+I, [2020-12-05T11:41:33.929441 #17081]  INFO -- : filename valid
+I, [2020-12-05T11:41:34.010983 #17081]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:41:34.072720 #17081]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:41:34.089750 #17081]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:41:34.112262 #17081]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:41:34.200508 #17081]  INFO -- : filename valid
+I, [2020-12-05T11:42:05.171036 #17140]  INFO -- : filename valid
+I, [2020-12-05T11:42:05.263837 #17140]  INFO -- : filename valid
+I, [2020-12-05T11:42:05.285462 #17140]  INFO -- : filename valid
+I, [2020-12-05T11:42:05.340378 #17140]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:42:05.402373 #17140]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:42:05.449451 #17140]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:42:05.545928 #17140]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:44:13.174654 #17339]  INFO -- : filename valid
+I, [2020-12-05T11:44:13.229036 #17339]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:44:13.281614 #17339]  INFO -- : filename valid
+I, [2020-12-05T11:44:13.364920 #17339]  INFO -- : filename valid
+I, [2020-12-05T11:44:13.412937 #17339]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:44:13.461964 #17339]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:44:13.486517 #17339]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:44:20.179141 #17379]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:44:20.189191 #17379]  INFO -- : filename valid
+I, [2020-12-05T11:44:20.221266 #17379]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:44:20.235304 #17379]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:44:20.243973 #17379]  INFO -- : filename valid
+I, [2020-12-05T11:44:20.289501 #17379]  INFO -- : filename valid
+I, [2020-12-05T11:44:20.299001 #17379]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:49:00.078284 #17608]  INFO -- : filename valid
+I, [2020-12-05T11:49:00.199750 #17608]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:49:00.332016 #17608]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:49:00.343858 #17608]  INFO -- : filename valid
+I, [2020-12-05T11:49:00.362512 #17608]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:49:00.384770 #17608]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:49:00.405087 #17608]  INFO -- : filename valid
+I, [2020-12-05T11:51:13.491857 #17816]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:51:13.501138 #17816]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T11:51:13.523709 #17816]  INFO -- : filename valid
+I, [2020-12-05T11:51:13.568470 #17816]  INFO -- : filename valid
+I, [2020-12-05T11:51:13.600255 #17816]  INFO -- : filename valid
+I, [2020-12-05T11:51:13.660176 #17816]  INFO -- : params[:username]: admin
+I, [2020-12-05T11:51:13.693089 #17816]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:12:55.983195 #18515]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:12:56.062418 #18515]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:12:56.112121 #18515]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:12:56.227029 #18515]  INFO -- : filename valid
+I, [2020-12-05T12:12:56.238932 #18515]  INFO -- : filename valid
+I, [2020-12-05T12:12:56.264333 #18515]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:12:56.334449 #18515]  INFO -- : filename valid
+I, [2020-12-05T12:14:49.865424 #18651]  INFO -- : filename valid
+I, [2020-12-05T12:14:49.894222 #18651]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:14:49.981919 #18651]  INFO -- : filename valid
+I, [2020-12-05T12:14:50.060767 #18651]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:14:50.074815 #18651]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:14:50.130025 #18651]  INFO -- : filename valid
+I, [2020-12-05T12:14:50.234304 #18651]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:16:18.633154 #18707]  INFO -- : filename valid
+I, [2020-12-05T12:16:18.707386 #18707]  INFO -- : filename valid
+I, [2020-12-05T12:16:18.753248 #18707]  INFO -- : filename valid
+I, [2020-12-05T12:16:18.792237 #18707]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:16:18.837717 #18707]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:18:51.247407 #18781]  INFO -- : filename valid
+I, [2020-12-05T12:18:51.260093 #18781]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:18:51.434939 #18781]  INFO -- : filename valid
+I, [2020-12-05T12:18:51.477627 #18781]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:18:51.505363 #18781]  INFO -- : filename valid
+I, [2020-12-05T12:19:20.979332 #18813]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:19:21.026635 #18813]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:19:21.062872 #18813]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:19:21.122235 #18813]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:19:21.237778 #18813]  INFO -- : filename valid
+I, [2020-12-05T12:19:21.303239 #18813]  INFO -- : filename valid
+I, [2020-12-05T12:19:21.345155 #18813]  INFO -- : filename valid
+I, [2020-12-05T12:36:31.212211 #19162]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:36:31.255320 #19162]  INFO -- : filename valid
+I, [2020-12-05T12:36:31.286996 #19162]  INFO -- : filename valid
+I, [2020-12-05T12:36:31.299024 #19162]  INFO -- : filename valid
+I, [2020-12-05T12:36:31.329338 #19162]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:36:31.497244 #19162]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:36:31.511543 #19162]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:38:42.786927 #19299]  INFO -- : filename valid
+I, [2020-12-05T12:38:42.900158 #19299]  INFO -- : filename valid
+I, [2020-12-05T12:38:42.936295 #19299]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:38:42.983403 #19299]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:38:43.016887 #19299]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:38:43.037094 #19299]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:38:43.124038 #19299]  INFO -- : filename valid
+I, [2020-12-05T12:39:47.628597 #19446]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:39:47.646891 #19446]  INFO -- : filename valid
+I, [2020-12-05T12:39:47.708442 #19446]  INFO -- : filename valid
+I, [2020-12-05T12:39:47.725607 #19446]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:39:47.747787 #19446]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:39:47.778544 #19446]  INFO -- : filename valid
+I, [2020-12-05T12:39:47.870366 #19446]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:41:01.407218 #19486]  INFO -- : filename valid
+I, [2020-12-05T12:41:01.434696 #19486]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:41:01.443678 #19486]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:41:01.584135 #19486]  INFO -- : filename valid
+I, [2020-12-05T12:41:01.593581 #19486]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:41:01.651361 #19486]  INFO -- : filename valid
+I, [2020-12-05T12:41:01.688631 #19486]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:41:34.528368 #19528]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:41:34.591361 #19528]  INFO -- : filename valid
+I, [2020-12-05T12:41:34.613037 #19528]  INFO -- : params[:username]: admin
+I, [2020-12-05T12:41:34.674884 #19528]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:41:34.697578 #19528]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T12:41:34.718853 #19528]  INFO -- : filename valid
+I, [2020-12-05T12:41:34.925203 #19528]  INFO -- : filename valid
+I, [2020-12-05T19:29:40.336620 #24856]  INFO -- : filename valid
+I, [2020-12-05T19:29:40.562092 #24856]  INFO -- : filename valid
+I, [2020-12-05T19:29:40.586311 #24856]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:29:40.625774 #24856]  INFO -- : filename valid
+I, [2020-12-05T19:29:40.662763 #24856]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:29:40.691426 #24856]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:29:40.730979 #24856]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:38:14.567737 #25239]  INFO -- : filename valid
+I, [2020-12-05T19:38:14.580806 #25239]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:38:14.593001 #25239]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:38:14.646307 #25239]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:38:14.769044 #25239]  INFO -- : filename valid
+I, [2020-12-05T19:38:14.797444 #25239]  INFO -- : filename valid
+I, [2020-12-05T19:38:14.835886 #25239]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:38:47.838451 #25300]  INFO -- : filename valid
+I, [2020-12-05T19:38:47.949793 #25300]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:38:47.973004 #25300]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:38:47.999175 #25300]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:38:48.052185 #25300]  INFO -- : filename valid
+I, [2020-12-05T19:38:48.145823 #25300]  INFO -- : filename valid
+I, [2020-12-05T19:38:48.185934 #25300]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:41:14.148904 #25370]  INFO -- : filename valid
+I, [2020-12-05T19:41:14.276097 #25370]  INFO -- : filename valid
+I, [2020-12-05T19:41:14.302999 #25370]  INFO -- : filename valid
+I, [2020-12-05T19:41:14.312569 #25370]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:41:14.340657 #25370]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:41:58.558544 #25399]  INFO -- : filename valid
+I, [2020-12-05T19:41:58.616766 #25399]  INFO -- : filename valid
+I, [2020-12-05T19:41:58.640532 #25399]  INFO -- : filename valid
+I, [2020-12-05T19:41:58.715856 #25399]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:41:58.814475 #25399]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:42:13.541579 #25422]  INFO -- : filename valid
+I, [2020-12-05T19:42:13.570803 #25422]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:42:13.606296 #25422]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:42:13.719445 #25422]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:42:13.797411 #25422]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:42:13.809101 #25422]  INFO -- : filename valid
+I, [2020-12-05T19:42:13.854141 #25422]  INFO -- : filename valid
+I, [2020-12-05T19:47:28.611311 #25757]  INFO -- : filename valid
+I, [2020-12-05T19:47:28.624164 #25757]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:47:28.768197 #25757]  INFO -- : filename valid
+I, [2020-12-05T19:47:28.794718 #25757]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:47:28.824396 #25757]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:47:28.871539 #25757]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:47:28.946522 #25757]  INFO -- : filename valid
+I, [2020-12-05T19:47:28.999843 #25757]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:48:26.879020 #25792]  INFO -- : filename valid
+I, [2020-12-05T19:48:26.969253 #25792]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:48:26.984180 #25792]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:48:27.005854 #25792]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:48:27.077388 #25792]  INFO -- : filename valid
+I, [2020-12-05T19:48:27.145310 #25792]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:48:27.187291 #25792]  INFO -- : filename valid
+I, [2020-12-05T19:48:27.280847 #25792]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:49:45.736203 #25867]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:49:45.925093 #25867]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:49:46.034325 #25867]  INFO -- : filename valid
+I, [2020-12-05T19:49:46.056005 #25867]  INFO -- : filename valid
+I, [2020-12-05T19:49:46.067062 #25867]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:49:46.082006 #25867]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:49:46.136690 #25867]  INFO -- : filename valid
+I, [2020-12-05T19:49:46.150579 #25867]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:53:56.781334 #26075]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:53:56.795034 #26075]  INFO -- : filename valid
+I, [2020-12-05T19:53:56.811832 #26075]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:53:56.873714 #26075]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T19:53:56.935864 #26075]  INFO -- : params[:username]: admin
+I, [2020-12-05T19:53:56.963395 #26075]  INFO -- : filename valid
+I, [2020-12-05T19:53:57.068699 #26075]  INFO -- : filename valid
+I, [2020-12-05T19:53:57.120474 #26075]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:13:13.947709 #26909]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:13:13.983091 #26909]  INFO -- : filename valid
+I, [2020-12-05T20:13:14.141225 #26909]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:13:14.200863 #26909]  INFO -- : filename valid
+I, [2020-12-05T20:13:14.212836 #26909]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:13:14.226545 #26909]  INFO -- : filename valid
+I, [2020-12-05T20:13:14.242286 #26909]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:13:14.341639 #26909]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:20:24.013860 #27248]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:20:24.071533 #27248]  INFO -- : filename valid
+I, [2020-12-05T20:20:24.092992 #27248]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:20:24.215419 #27248]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:20:24.287613 #27248]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:20:24.319621 #27248]  INFO -- : filename valid
+I, [2020-12-05T20:20:24.398488 #27248]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:20:24.416524 #27248]  INFO -- : filename valid
+I, [2020-12-05T20:20:55.892845 #27305]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:20:56.015626 #27305]  INFO -- : filename valid
+I, [2020-12-05T20:20:56.035202 #27305]  INFO -- : filename valid
+I, [2020-12-05T20:20:56.095046 #27305]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:20:56.115259 #27305]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:20:56.175753 #27305]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:20:56.193524 #27305]  INFO -- : filename valid
+I, [2020-12-05T20:20:56.265693 #27305]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:23:33.903661 #27479]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:23:33.938497 #27479]  INFO -- : Going to delete herstory.txt
+I, [2020-12-05T20:23:33.949856 #27479]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:23:34.040280 #27479]  INFO -- : params[:username]: admin
+I, [2020-12-05T20:23:34.118941 #27479]  INFO -- : filename valid
+I, [2020-12-05T20:23:34.137718 #27479]  INFO -- : filename valid
+I, [2020-12-05T20:23:34.154615 #27479]  INFO -- : filename valid
+I, [2020-12-05T20:23:34.166550 #27479]  INFO -- : params[:username]: admin
+I, [2020-12-06T16:31:30.623344 #24126]  INFO -- : filename valid
+I, [2020-12-06T16:31:30.799746 #24126]  INFO -- : params[:username]: admin
+I, [2020-12-06T16:31:30.822624 #24126]  INFO -- : params[:username]: admin
+I, [2020-12-06T16:31:30.831260 #24126]  INFO -- : Going to delete herstory.txt
+I, [2020-12-06T16:31:30.850892 #24126]  INFO -- : filename valid
+I, [2020-12-06T16:31:30.904696 #24126]  INFO -- : filename valid
+I, [2020-12-06T16:31:30.934600 #24126]  INFO -- : params[:username]: admin
+I, [2020-12-06T16:31:31.054730 #24126]  INFO -- : Going to delete herstory.txt
+I, [2020-12-06T16:31:45.966259 #24166]  INFO -- : filename valid
+I, [2020-12-06T16:31:46.090599 #24166]  INFO -- : params[:username]: admin
+I, [2020-12-06T16:31:46.158229 #24166]  INFO -- : Going to delete herstory.txt
+I, [2020-12-06T16:31:46.196657 #24166]  INFO -- : Going to delete herstory.txt
+I, [2020-12-06T16:31:46.215675 #24166]  INFO -- : params[:username]: admin
+I, [2020-12-06T16:31:46.265661 #24166]  INFO -- : filename valid
+I, [2020-12-06T16:31:46.379409 #24166]  INFO -- : filename valid
+I, [2020-12-08T20:14:52.737927 #17954]  INFO -- : filename valid
+I, [2020-12-08T20:14:52.822551 #17954]  INFO -- : filename valid
+I, [2020-12-08T20:14:52.859510 #17954]  INFO -- : params[:username]: admin
+I, [2020-12-08T20:14:52.870297 #17954]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:14:52.882101 #17954]  INFO -- : params[:username]: admin
+I, [2020-12-08T20:14:53.087526 #17954]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:14:53.100228 #17954]  INFO -- : filename valid
+I, [2020-12-08T20:46:01.252926 #19222]  INFO -- : filename valid
+I, [2020-12-08T20:46:01.340290 #19222]  INFO -- : filename valid
+I, [2020-12-08T20:46:01.358158 #19222]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:46:01.386543 #19222]  INFO -- : filename valid
+I, [2020-12-08T20:46:01.423371 #19222]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:46:16.089468 #19263]  INFO -- : filename valid
+I, [2020-12-08T20:46:16.166022 #19263]  INFO -- : filename valid
+I, [2020-12-08T20:46:16.176352 #19263]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:46:16.214928 #19263]  INFO -- : filename valid
+I, [2020-12-08T20:46:16.242490 #19263]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:47:20.199263 #19359]  INFO -- : filename valid
+I, [2020-12-08T20:47:20.270510 #19359]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:47:20.353490 #19359]  INFO -- : filename valid
+I, [2020-12-08T20:47:20.432303 #19359]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:47:20.497802 #19359]  INFO -- : filename valid
+I, [2020-12-08T20:49:31.970691 #19587]  INFO -- : filename valid
+I, [2020-12-08T20:49:32.004685 #19587]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:49:32.229979 #19587]  INFO -- : filename valid
+I, [2020-12-08T20:49:32.242683 #19587]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:49:32.252531 #19587]  INFO -- : filename valid
+I, [2020-12-08T20:49:49.911780 #19645]  INFO -- : filename valid
+I, [2020-12-08T20:49:50.049070 #19645]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:49:50.090986 #19645]  INFO -- : filename valid
+I, [2020-12-08T20:49:50.171916 #19645]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:49:50.226527 #19645]  INFO -- : filename valid
+I, [2020-12-08T20:50:30.960104 #19707]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:50:31.002053 #19707]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:50:31.163078 #19707]  INFO -- : filename valid
+I, [2020-12-08T20:50:31.223924 #19707]  INFO -- : filename valid
+I, [2020-12-08T20:50:31.351559 #19707]  INFO -- : filename valid
+I, [2020-12-08T20:53:51.910873 #20243]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:53:52.038968 #20243]  INFO -- : Going to delete herstory.txt
+I, [2020-12-08T20:53:52.070556 #20243]  INFO -- : filename valid
+I, [2020-12-08T20:53:52.168464 #20243]  INFO -- : filename valid
+I, [2020-12-08T20:53:52.246375 #20243]  INFO -- : filename valid
+I, [2020-12-09T09:37:33.466216 #27496]  INFO -- : filename valid
+I, [2020-12-09T09:37:33.621368 #27496]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T09:37:33.638630 #27496]  INFO -- : filename valid
+I, [2020-12-09T09:37:33.668565 #27496]  INFO -- : filename valid
+I, [2020-12-09T09:37:33.688202 #27496]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T11:25:25.132719 #3239]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T11:25:25.248078 #3239]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T11:25:25.343610 #3239]  INFO -- : filename valid
+I, [2020-12-09T11:25:25.370185 #3239]  INFO -- : filename valid
+I, [2020-12-09T11:25:25.669568 #3239]  INFO -- : filename valid
+I, [2020-12-09T11:36:40.167129 #3960]  INFO -- : filename valid
+I, [2020-12-09T11:36:40.325802 #3960]  INFO -- : filename valid
+I, [2020-12-09T11:36:40.678648 #3960]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T11:36:40.696952 #3960]  INFO -- : filename valid
+I, [2020-12-09T11:36:41.007655 #3960]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T12:50:07.743373 #9035]  INFO -- : filename valid
+I, [2020-12-09T12:50:10.099077 #9035]  INFO -- : filename valid
+I, [2020-12-09T12:50:12.961263 #9035]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T12:50:32.042100 #9035]  INFO -- : Going to delete herstory.txt
+I, [2020-12-09T12:50:32.831570 #9035]  INFO -- : filename valid
